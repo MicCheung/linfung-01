@@ -1,0 +1,4047 @@
+{
+  "languages": [
+    {
+      "id": "chin",
+      "title": "繁體中文",
+      "description": "/",
+      "enabled": true,
+      "image": "TbSquareLetterH"
+    },
+    {
+      "id": "engl",
+      "title": "English",
+      "description": "/",
+      "enabled": true,
+      "image": "RiEnglishInput"
+    },
+    {
+      "id": "simp",
+      "title": "简体中文",
+      "description": "/",
+      "enabled": true,
+      "image": "TbSquareLetterC"
+    }
+  ],
+  "pages": [
+    {
+      "id": "1000-chin",
+      "parent": "accounting",
+      "_name": "會計軟件 - 特價推廣",
+      "_content": "會計軟件 - 特價推廣 - 香港會計模式設計 印支票功能",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "中英文會計系統 - 特價推廣"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_4801.jpg",
+          "width": "700",
+          "height": "600",
+          "alt": "來自香港的會計軟件,專為中小企而設,附印支票功能,HK$ 1000."
+        },
+        {
+          "key": "004",
+          "section": "t1a",
+          "content": "財務會計，應收賬，應付賬，寫中英文支票 會計軟件",
+          "items": [
+            "一套多功能，包括會計帳、應收帳、應付帳，多用戶版會計應用軟件。",
+            "中/英文，繁簡體操作及輸入介面可供選擇。",
+            "可開設多間公司，每間公司可支援最大 10 GB 容量，一般中小型公司可屢積十年以上資料，無需每年或每二年清理一次，運作速度依然暢順，不受影響。",
+            "即使翻查十多年前資料，也是一按即就，毫無難度。",
+            "免費附送印支票軟件，只須簡單輸入資料，數秒鐘便能印出精美支票。"
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_4301.jpg",
+          "width": "700",
+          "height": "380",
+          "alt": "印支票軟件"
+        },
+        {
+          "key": "007",
+          "section": "t2a",
+          "content": "只須輸入金額，自動翻譯成中英文大寫"
+        },
+        {
+          "key": "008",
+          "section": "t1a",
+          "content": "免費試用版可供下載",
+          "items": [
+            "Operating system(s):Windows® 11, Windows® 10, Windows® 8.1, Windows® 8, Windows® 7",
+            "本網站所有軟件均擁有 CSC 簽章認證，貴客戶可放心下載使用。"
+          ]
+        },
+        {
+          "key": "009",
+          "section": "lin"
+        },
+        {
+          "key": "010",
+          "section": "b1a",
+          "src": "/accounting/accounting-software-free-download/1002-chin",
+          "content": "下載試用版"
+        },
+        {
+          "key": "011",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_4101.jpg",
+          "width": "700",
+          "height": "380",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "012",
+          "section": "lin"
+        },
+        {
+          "key": "013",
+          "section": "b1a",
+          "src": "/accounting/accounting-software-technical-support/1007-chin",
+          "content": "技術支援 / 查詢"
+        },
+        {
+          "key": "014",
+          "section": "b1a",
+          "src": "/videos/accounting-software-demonstration-videos/1003-chin",
+          "content": "如何安裝試用版，軟件操作示範（視頻）"
+        },
+        {
+          "key": "015",
+          "section": "b1a",
+          "src": "/accounting/accounting-services/1006-chin",
+          "content": "會計服務優惠"
+        }
+      ]
+    },
+    {
+      "id": "1001-chin",
+      "parent": "accounting",
+      "_name": "會計軟件 - 特價推廣",
+      "_content": "會計軟件 - 特價推廣 - 香港會計模式設計 印支票功能",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "中英文會計系統 - 特價推廣"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3801.jpg",
+          "width": "700",
+          "height": "600",
+          "alt": "來自香港的會計軟件,專為中小企而設,附印支票功能,HK$ 1000."
+        },
+        {
+          "key": "004",
+          "section": "t1a",
+          "content": "財務會計，應收賬，應付賬，寫中英文支票 會計軟件",
+          "items": [
+            "一套多功能，包括會計帳、應收帳、應付帳，多用戶版會計應用軟件。",
+            "中/英文，繁簡體操作及輸入介面可供選擇。",
+            "可開設多間公司，每間公司可支援最大 10 GB 容量，一般中小型公司可屢積十年以上資料，無需每年或每二年清理一次，運作速度依然暢順，不受影響。",
+            "即使翻查十多年前資料，也是一按即就，毫無難度。",
+            "免費附送印支票軟件，只須簡單輸入資料，數秒鐘便能印出精美支票。"
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2301.jpg",
+          "width": "700",
+          "height": "380",
+          "alt": "印支票軟件"
+        },
+        {
+          "key": "007",
+          "section": "t2a",
+          "content": "只須輸入金額，自動翻譯成中英文大寫"
+        },
+        {
+          "key": "008",
+          "section": "t1a",
+          "content": "免費試用版可供下載",
+          "items": [
+            "Operating system(s):Windows® 11, Windows® 10, Windows® 8.1, Windows® 8, Windows® 7",
+            "本網站所有軟件均擁有 CSC 簽章認證，貴客戶可放心下載使用。"
+          ]
+        },
+        {
+          "key": "009",
+          "section": "lin"
+        },
+        {
+          "key": "010",
+          "section": "b1a",
+          "src": "/accounting/accounting-software-free-download/1002-chin",
+          "content": "下載試用版"
+        },
+        {
+          "key": "011",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "700",
+          "height": "380",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "012",
+          "section": "lin"
+        },
+        {
+          "key": "013",
+          "section": "b1a",
+          "src": "/accounting/accounting-software-technical-support/1007-chin",
+          "content": "技術支援 / 查詢"
+        },
+        {
+          "key": "014",
+          "section": "b1a",
+          "src": "/videos/accounting-software-demonstration-videos/1003-chin",
+          "content": "如何安裝試用版，軟件操作示範（視頻）"
+        },
+        {
+          "key": "015",
+          "section": "b1a",
+          "src": "/accounting/accounting-services/1006-chin",
+          "content": "會計服務優惠"
+        }
+      ]
+    },
+    {
+      "id": "1001-engl",
+      "parent": "accounting",
+      "_name": "Accounting Software - Promotion",
+      "_content": "Hong Kong Accounting Software - Promotion - HK$ 1,000 for 10 Users",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "Accounting Software - Promotion"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3802.jpg",
+          "width": "700",
+          "height": "600",
+          "alt": "Accounting software from Hong Kong for small to medium sized business, with cheque printing features - HK$ 1000."
+        },
+        {
+          "key": "004",
+          "section": "t1a",
+          "content": "Accounting Software with General Ledger, Receivables,  Payables & Cheques printing Modules",
+          "items": [
+            "Accounting software including General Ledger Module, Accounts Receivable Module, Accounts Payable Module. Featured with multi-companies, multi financial years, multi users capabilities.",
+            "Chinese/ English, Traditional Chinese/ Simplified Chinese interfaces, input and reporting.",
+            "Multiple companies, each company can occupy up to 10 GB data, which means couples of decades of data for a medium sized company, no need for closing or purging previous years data for every one or two years.",
+            "Cheque printing modules included for free."
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2302.jpg",
+          "width": "700",
+          "height": "380",
+          "alt": "Cheque Printing"
+        },
+        {
+          "key": "007",
+          "section": "t2a",
+          "content": "Amount in words are translated automatically"
+        },
+        {
+          "key": "008",
+          "section": "t1a",
+          "content": "Download free trial version",
+          "items": [
+            "Operating system(s):Windows® 11, Windows® 10, Windows® 8.1, Windows® 8, Windows® 7",
+            "Feel free to download any software from this site as they are CSC certified."
+          ]
+        },
+        {
+          "key": "009",
+          "section": "lin"
+        },
+        {
+          "key": "010",
+          "section": "b1a",
+          "src": "/accounting/accounting-software-free-download/1002-engl",
+          "content": "Download"
+        },
+        {
+          "key": "011",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "700",
+          "height": "380",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "012",
+          "section": "lin"
+        },
+        {
+          "key": "013",
+          "section": "b1a",
+          "src": "/accounting/accounting-software-technical-support/1007-engl",
+          "content": "Technical Support / Enquiries"
+        },
+        {
+          "key": "014",
+          "section": "b1a",
+          "src": "/videos/accounting-software-demonstration-videos/1003-engl",
+          "content": "How to install the trial software , Basic operations(Videos)"
+        },
+        {
+          "key": "015",
+          "section": "b1a",
+          "src": "/accounting/accounting-services/1006-engl",
+          "content": "Accounting Services "
+        }
+      ]
+    },
+    {
+      "id": "1001-simp",
+      "parent": "accounting",
+      "_name": "会计软件 - 特价推广",
+      "_content": "会计软件 - 特价推广 - 香港会计模式设计 印支票功能",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "中英文会计系统 - 特价推广"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3803.jpg",
+          "width": "700",
+          "height": "600",
+          "alt": "来自香港的会计软件,专为中小企而设,附印支票功能,HK$ 1000."
+        },
+        {
+          "key": "004",
+          "section": "t1a",
+          "content": "财务会计，应收账，应付账，写中英文支票 会计软件",
+          "items": [
+            "一套多功能，包括会计帐、应收帐、应付账。",
+            "中/英文，繁简体操作及输入介面可供选择。",
+            "可开设多间公司，每间公司可支持最大 10 GB 容量，一般中小型公司可屡积十年以上数据，无需每年或每二年清理一次，运作速度依然畅顺，不受影响。",
+            "即使翻查十多年前资料，也是一按即就，毫无难度。",
+            "免费附送印支票软件，只须简单输入数据，数秒钟便能印出精美支票。"
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2303.jpg",
+          "width": "700",
+          "height": "380",
+          "alt": "印支票软件"
+        },
+        {
+          "key": "007",
+          "section": "t2a",
+          "content": "只须输入金额，自动翻译成中英文大写"
+        },
+        {
+          "key": "008",
+          "section": "t1a",
+          "content": "免费试用版可供下载",
+          "items": [
+            "Operating system(s):Windows® 11, Windows® 10, Windows® 8.1, Windows® 8, Windows® 7",
+            "本网站所有软件均拥有 CSC 签章认证，贵客户可放心下载使用。"
+          ]
+        },
+        {
+          "key": "009",
+          "section": "lin"
+        },
+        {
+          "key": "010",
+          "section": "b1a",
+          "src": "/accounting/accounting-software-free-download/1002-simp",
+          "content": "下载试用版"
+        },
+        {
+          "key": "011",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "700",
+          "height": "380",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "012",
+          "section": "lin"
+        },
+        {
+          "key": "013",
+          "section": "b1a",
+          "src": "/accounting/accounting-software-technical-support/1007-simp",
+          "content": "技术支持 / 查询"
+        },
+        {
+          "key": "014",
+          "section": "b1a",
+          "src": "/videos/accounting-software-demonstration-videos/1003-simp",
+          "content": "如何安装试用版 ，软件操作示范(视频)"
+        },
+        {
+          "key": "015",
+          "section": "b1a",
+          "src": "/accounting/accounting-services/1006-simp",
+          "content": "会计服务优惠"
+        }
+      ]
+    },
+
+    {
+      "id": "1002-chin",
+      "parent": "accounting",
+      "_name": "中小企會計軟件 中文/英文介面 繁/簡體操作",
+      "_content": "GIGA Accounting 下載中心 - 中小企會計軟件 中文/英文介面 繁/簡體操作",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "GIGA Accounting 免費會計軟件下載"
+        },
+        {
+          "key": "002",
+          "section": "t1a",
+          "content": "免費試用版可供下載",
+          "items": [
+            "Operating system(s):Windows® 11, Windows® 10, Windows® 8.1, Windows® 8, Windows® 7",
+            "本網站所有軟件均擁有 CSC 簽章認證，貴客戶可放心下載使用。"
+          ]
+        },
+        {
+          "key": "003",
+          "section": "lin"
+        },
+        {
+          "key": "004",
+          "section": "b2a",
+          "src": "/members/accounting-software-trial-version-download/1201-chin",
+          "logo": "0",
+          "content": "下載試用版"
+        },
+        {
+          "key": "005",
+          "section": "t2a",
+          "content": "（下載後請將 ISO 檔案燒錄至光碟 — 點擊 ISO 檔案按右鍵選擇『燒錄光碟影像』）"
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        },
+        {
+          "key": "007",
+          "section": "h2a",
+          "content": "系統特性"
+        },
+        {
+          "key": "008",
+          "section": "t3a",
+          "content": "強大資料庫，多公司，多年度，多用戶",
+          "items": [
+            "沒限制開設公司數量，每間公司可支援最大 10 GB 容量，一般中小型公司可屢積十年以上資料，無需每年或每二年清理一次，或年結過帳等繁瑣程序，運作速度依然暢順，不受影響。"
+          ]
+        },
+        {
+          "key": "009",
+          "section": "t3a",
+          "content": "跨區網絡功能",
+          "items": [
+            "可將主機及分機分佈於不同區域，甚至國家，透過互聯網相互連繫，實時更新及互動。"
+          ]
+        },
+        {
+          "key": "010",
+          "section": "t3a",
+          "content": "中/英文，繁簡體操作及輸入介面"
+        },
+        {
+          "key": "011",
+          "section": "t3a",
+          "content": "EXCEL 輸入功能",
+          "items": [
+            "可從 EXCEL 檔案 (需附合格式) 將大量憑證直接輸入系統，系統在輸入前會自動查核憑證附合規定 (例如有效會計科目，借/貸方總數平衡.. 等) 始將資料輸入。"
+          ]
+        },
+        {
+          "key": "012",
+          "section": "t3a",
+          "content": "報表輸出功能",
+          "items": [
+            "所有報表均可輸出至 EXCEL、WORD、PDF 等檔案格式，方便發送及更改。",
+            "更改錯誤憑證資料，彈性較一般會計軟件大，例如一項銷售發票金額須要更改，即使該發票已部份收款，發票金額仍可修改。亦可選擇凍結資料，防止任何修改。"
+          ]
+        },
+        {
+          "key": "013",
+          "section": "t3a",
+          "content": "香港模式報表",
+          "items": [
+            "財務報表樣式均以香港會計模式設計，迎合香港會計師要求。"
+          ]
+        },
+        {
+          "key": "014",
+          "section": "t3a",
+          "content": "列印支票功能",
+          "items": [
+            "設有支票列印功能，方便、快捷及美觀，減少手寫錯誤。"
+          ]
+        },
+        {
+          "key": "015",
+          "section": "lin"
+        },
+        {
+          "key": "016",
+          "section": "t2a",
+          "content": "一般憑證輸入"
+        },
+        {
+          "key": "017",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0101.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "一般憑證輸入"
+        },
+        {
+          "key": "018",
+          "section": "lin"
+        },
+        {
+          "key": "019",
+          "section": "t2a",
+          "content": "應付賬-付款"
+        },
+        {
+          "key": "020",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0211.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "應付賬-付款"
+        },
+        {
+          "key": "021",
+          "section": "lin"
+        },
+        {
+          "key": "022",
+          "section": "t2a",
+          "content": "資產負債表"
+        },
+        {
+          "key": "023",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0301.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "資產負債表"
+        },
+        {
+          "key": "024",
+          "section": "lin"
+        },
+        {
+          "key": "025",
+          "section": "t2a",
+          "content": "損益表"
+        },
+        {
+          "key": "026",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0401.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "損益表"
+        },
+        {
+          "key": "027",
+          "section": "lin"
+        },
+        {
+          "key": "028",
+          "section": "t2a",
+          "content": "財務總賬 - 輸出至 Excel 檔案"
+        },
+        {
+          "key": "029",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0501.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "財務總賬 - 輸出至 Excel 檔案"
+        },
+        {
+          "key": "030",
+          "section": "t1a",
+          "content": "免費試用版可供下載",
+          "items": [
+            "Operating system(s):Windows® 11, Windows® 10, Windows® 8.1, Windows® 8, Windows® 7",
+            "本網站所有軟件均擁有 CSC 簽章認證，貴客戶可放心下載使用。"
+          ]
+        },
+        {
+          "key": "031",
+          "section": "lin"
+        },
+        {
+          "key": "032",
+          "section": "b2a",
+          "src": "/members/accounting-software-trial-version-download/1201-chin",
+          "logo": "0",
+          "content": "下載試用版"
+        },
+        {
+          "key": "033",
+          "section": "t2a",
+          "content": "（下載後請將 ISO 檔案燒錄至光碟 — 點擊 ISO 檔案按右鍵選擇『燒錄光碟影像』）"
+        },
+        {
+          "key": "034",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1002-engl",
+      "parent": "accounting",
+      "_name": "Chinese English Accounting Software for Small Business - Free Download",
+      "_content": "Accounting Software for small medium sized business Chinese/ English interfaces",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "GIGA Accounting - free accounting software download"
+        },
+        {
+          "key": "002",
+          "section": "t1a",
+          "content": "Download free trial version",
+          "items": [
+            "Operating system(s):Windows® 11, Windows® 10, Windows® 8.1, Windows® 8, Windows® 7",
+            "Feel free to download any software from this site as they are CSC certified."
+          ]
+        },
+        {
+          "key": "003",
+          "section": "lin"
+        },
+        {
+          "key": "004",
+          "section": "b2a",
+          "src": "/members/accounting-software-trial-version-download/1201-engl",
+          "logo": "0",
+          "content": "Download"
+        },
+        {
+          "key": "005",
+          "section": "t2a",
+          "content": "(the downloaded ISO image file can be burned to a CD/DVD — right-click the ISO image file and select 『Burn to CD』)"
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        },
+        {
+          "key": "007",
+          "section": "h2a",
+          "content": "Features"
+        },
+        {
+          "key": "008",
+          "section": "t3a",
+          "content": "Multi Companies, Multi Financial years, Multi users",
+          "items": [
+            "Multiple companies, each company can occupy up to 10 GB data, which means couples of decades of data for a medium sized company, no need for closing or purging previous years data for every one or two years."
+          ]
+        },
+        {
+          "key": "009",
+          "section": "t3a",
+          "content": "Site Globally",
+          "items": [
+            "Servers and workstations can be sited in a local office or anywhere globally."
+          ]
+        },
+        {
+          "key": "010",
+          "section": "t3a",
+          "content": "Chinese/ English, Traditional Chinese/ Simplified Chinese interfaces, input and reporting"
+        },
+        {
+          "key": "011",
+          "section": "t3a",
+          "content": "EXCEL bulk data input",
+          "items": [
+            "Direct data input into the system through a EXCEL file, the system will check the integrity of data and balancing of entries before importing starts."
+          ]
+        },
+        {
+          "key": "012",
+          "section": "t3a",
+          "content": "Reports exporting features",
+          "items": [
+            "All reports in the system can be exported as EXCEL、WORD、PDF files."
+          ]
+        },
+        {
+          "key": "013",
+          "section": "t3a",
+          "content": "Freezing Earlier years data",
+          "items": [
+            "A strong add-in feature to freeze earlier years data to serve",
+            "protecting data in these earlier years from any unintentional alternations",
+            "speed up the processing speed.",
+            "can be unfreeze again to print reports from earlier years or even making alternations."
+          ]
+        },
+        {
+          "key": "014",
+          "section": "t3a",
+          "content": "Cheque Printing",
+          "items": [
+            "Fast and neat ways of printing cheque."
+          ]
+        },
+        {
+          "key": "015",
+          "section": "lin"
+        },
+        {
+          "key": "016",
+          "section": "t2a",
+          "content": "General Journal Entries"
+        },
+        {
+          "key": "017",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0102.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "General Journal Entries"
+        },
+        {
+          "key": "018",
+          "section": "lin"
+        },
+        {
+          "key": "019",
+          "section": "t2a",
+          "content": "Accounts Payable-Settlement"
+        },
+        {
+          "key": "020",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0212.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "Accounts Payable-Settlement"
+        },
+        {
+          "key": "021",
+          "section": "lin"
+        },
+        {
+          "key": "022",
+          "section": "t2a",
+          "content": "Balance Sheet"
+        },
+        {
+          "key": "023",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0302.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "Balance Sheet"
+        },
+        {
+          "key": "024",
+          "section": "lin"
+        },
+        {
+          "key": "025",
+          "section": "t2a",
+          "content": "Trading and Profit and Loss Account"
+        },
+        {
+          "key": "026",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0402.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "Trading and Profit and Loss Account"
+        },
+        {
+          "key": "027",
+          "section": "lin"
+        },
+        {
+          "key": "028",
+          "section": "t2a",
+          "content": "General Ledger - Export to Excel file format"
+        },
+        {
+          "key": "029",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0502.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "General Ledger - Export to Excel file format"
+        },
+        {
+          "key": "030",
+          "section": "t1a",
+          "content": "Download free trial version",
+          "items": [
+            "Operating system(s):Windows® 11, Windows® 10, Windows® 8.1, Windows® 8, Windows® 7",
+            "Feel free to download any software from this site as they are CSC certified."
+          ]
+        },
+        {
+          "key": "031",
+          "section": "lin"
+        },
+        {
+          "key": "032",
+          "section": "b2a",
+          "src": "/members/accounting-software-trial-version-download/1201-engl",
+          "logo": "0",
+          "content": "Download"
+        },
+        {
+          "key": "033",
+          "section": "t2a",
+          "content": "(the downloaded ISO image file can be burned to a CD/DVD ROM/or using the method as indicated in the tutorial video without the need to burn the file onto a CD)"
+        },
+        {
+          "key": "034",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1002-simp",
+      "parent": "accounting",
+      "_name": "中小企会计软件 中文/英文介面 繁/简体操作",
+      "_content": "GIGA Accounting 下载中心 - 中小企会计软件 中文/英文介面 繁/简体操作",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "GIGA Accounting 免费会计软件下载"
+        },
+        {
+          "key": "002",
+          "section": "t1a",
+          "content": "免费试用版可供下载",
+          "items": [
+            "Operating system(s):Windows® 11, Windows® 10, Windows® 8.1, Windows® 8, Windows® 7",
+            "本网站所有软件均拥有 CSC 签章认证，贵客户可放心下载使用。"
+          ]
+        },
+        {
+          "key": "003",
+          "section": "lin"
+        },
+        {
+          "key": "004",
+          "section": "b2a",
+          "src": "/members/accounting-software-trial-version-download/1201-simp",
+          "logo": "0",
+          "content": "下载试用版"
+        },
+        {
+          "key": "005",
+          "section": "t2a",
+          "content": "（下载后请将 ISO 檔案刻录至光盘 — 点击 ISO 档案按右键选择『刻录光盘影像』 ）"
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        },
+        {
+          "key": "007",
+          "section": "h2a",
+          "content": "系统特性"
+        },
+        {
+          "key": "008",
+          "section": "t3a",
+          "content": "强大数据库，多公司，多年度，多用户",
+          "items": [
+            "没限制开设公司数量，每间公司可支持最大 10 GB 容量，一般中小型公司可屡积十年以上数据，无需每年或每二年清理一次，或年结过账等繁琐程序，运作速度依然畅顺，不受影响。"
+          ]
+        },
+        {
+          "key": "009",
+          "section": "t3a",
+          "content": "跨区网络功能",
+          "items": [
+            "可将主机及分机分布于不同区域，甚至国家，透过互联网相互连系，实时更新及互动。"
+          ]
+        },
+        {
+          "key": "010",
+          "section": "t3a",
+          "content": "中/英文，繁简体操作及输入介面"
+        },
+        {
+          "key": "011",
+          "section": "t3a",
+          "content": "EXCEL 输入功能",
+          "items": [
+            "可从 EXCEL 档案 (需附合格式) 将大量凭证直接输入系统，系统在输入前会自动查核凭证附合规定 (例如有效会计科目，借/贷方总数平衡.. 等) 始将数据输入。"
+          ]
+        },
+        {
+          "key": "012",
+          "section": "t3a",
+          "content": "报表输出功能",
+          "items": [
+            "所有报表均可输出至 EXCEL、WORD、PDF 等文件格式，方便发送及更改。",
+            "更改错误凭证数据，弹性较一般会计软件大，例如一项销售发票金额须要更改，即使该发票已部份收款，发票金额仍可修改。亦可选择冻结数据，防止任何修改。"
+          ]
+        },
+        {
+          "key": "013",
+          "section": "t3a",
+          "content": "香港模式报表",
+          "items": [
+            "财务报表样式均以香港会计模式设计，迎合香港会计师要求。"
+          ]
+        },
+        {
+          "key": "014",
+          "section": "t3a",
+          "content": "打印支票功能",
+          "items": [
+            "设有支票打印功能，方便、快捷及美观，减少手写错误。"
+          ]
+        },
+        {
+          "key": "015",
+          "section": "lin"
+        },
+        {
+          "key": "016",
+          "section": "t2a",
+          "content": "一般凭证输入"
+        },
+        {
+          "key": "017",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0103.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "一般凭证输入"
+        },
+        {
+          "key": "018",
+          "section": "lin"
+        },
+        {
+          "key": "019",
+          "section": "t2a",
+          "content": "应付账-付款"
+        },
+        {
+          "key": "020",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0212.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "应付账-付款"
+        },
+        {
+          "key": "021",
+          "section": "lin"
+        },
+        {
+          "key": "022",
+          "section": "t2a",
+          "content": "资产负债表"
+        },
+        {
+          "key": "023",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0303.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "资产负债表"
+        },
+        {
+          "key": "024",
+          "section": "lin"
+        },
+        {
+          "key": "025",
+          "section": "t2a",
+          "content": "损益表"
+        },
+        {
+          "key": "026",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0403.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "损益表"
+        },
+        {
+          "key": "027",
+          "section": "lin"
+        },
+        {
+          "key": "028",
+          "section": "t2a",
+          "content": "财务总账 - 输出至 Excel 档案"
+        },
+        {
+          "key": "029",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/images/Cap_0503.jpg",
+          "width": "1600",
+          "height": "870",
+          "alt": "财务总账 - 输出至 Excel 档案"
+        },
+        {
+          "key": "030",
+          "section": "t1a",
+          "content": "免费试用版可供下载",
+          "items": [
+            "Operating system(s):Windows® 11, Windows® 10, Windows® 8.1, Windows® 8, Windows® 7",
+            "本网站所有软件均拥有 CSC 签章认证，贵客户可放心下载使用。"
+          ]
+        },
+        {
+          "key": "031",
+          "section": "lin"
+        },
+        {
+          "key": "032",
+          "section": "b2a",
+          "src": "/members/accounting-software-trial-version-download/1201-simp",
+          "logo": "0",
+          "content": "下载试用版"
+        },
+        {
+          "key": "033",
+          "section": "t2a",
+          "content": "（下载后请将 ISO 档案刻录至光盘 / 或按照教学视频中的方法可无须刻录光盘"
+        },
+        {
+          "key": "034",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1003-chin",
+      "parent": "videos",
+      "_name": "示範視頻 - 香港會計系統軟件",
+      "_content": "示範視頻 - 香港會計系統軟件 | 中英文繁簡體操作 | 印支票功能",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "示範視頻"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "安裝 GIGA Accounting (試用版)"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3101.jpg",
+          "width": "327",
+          "height": "494",
+          "alt": "安裝 GIGA Accounting (試用版)"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "t3a",
+          "content": "安裝 GIGA Accounting （單用戶版）",
+          "items": [
+            "已安裝 GIGA Accounting （試用版），無需安裝，只需輸入 ‘單用戶版’ 啟動編碼便可即時轉換成 GIGA Accounting （單用戶版）",
+            "單用戶版相等到一部主機使用權，可隨時與其他分機組成一個多用戶網絡。"
+          ]
+        },
+        {
+          "key": "007",
+          "section": "t3a",
+          "content": "安裝 GIGA Accounting （多用戶版）",
+          "items": [
+            "請先安裝 GIGA Accounting （試用版），再用 GIGA Accounting （多用戶版）光碟進行安裝"
+          ]
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3201.jpg",
+          "width": "327",
+          "height": "494",
+          "alt": "安裝 GIGA Accounting （多用戶版）"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        },
+        {
+          "key": "012",
+          "section": "t3a",
+          "content": "主機資料庫：重設密碼 - 000000",
+          "items": [
+            "系統資料庫為保護資料保密性，一般對密碼設定有一些要求，例如至少 8 個位或以上，其他詳情請參閱 『更改資料庫密碼』 當中的提示，如果連續三天或以上系統以非常簡單的密碼登錄，例如 『000000』 或 『123456』，系統會自動取消該密碼設定，這時系統將會無法登入，解決辦法是到安裝光碟上執行 『主機資料庫：重設密碼 – 000000』，便可重新登入，請盡快更改資料庫密碼，用較複雜的密碼，以免再被系統取消登入。"
+          ]
+        },
+        {
+          "key": "015",
+          "section": "t3a",
+          "content": "由 Excel 檔案大量輸入憑證"
+        }
+      ],
+      "videos": [
+        {
+          "key": "021",
+          "section": "l2a"
+        },
+        {
+          "key": "022",
+          "section": "l2a"
+        },
+        {
+          "key": "023",
+          "section": "l2a"
+        },
+        {
+          "key": "024",
+          "section": "t3a",
+          "content": "安裝 GIGA Accounting (試用版)"
+        },
+        {
+          "key": "025",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/9k-gwpLvXiU",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "026",
+          "section": "lin"
+        },
+        {
+          "key": "027",
+          "section": "t3a",
+          "content": "安裝 GIGA Accounting （多用戶版）"
+        },
+        {
+          "key": "028",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/I3IjJ2o0nL4",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "029",
+          "section": "lin"
+        },
+        {
+          "key": "030",
+          "section": "t3a",
+          "content": "主機資料庫：重設密碼 - 000000"
+        },
+        {
+          "key": "031",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/fvVsnPKO3qk",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "032",
+          "section": "lin"
+        },
+        {
+          "key": "033",
+          "section": "t3a",
+          "content": "由 Excel 檔案大量輸入憑證"
+        },
+        {
+          "key": "034",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/nTG8NHpaAW0",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "035",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1003-engl",
+      "parent": "videos",
+      "_name": "Demo Video - Hong Kong Chinese English Accounting Software",
+      "_content": "Demo Video - Hong Kong Chinese English Accounting Software | Cheque Printing",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "Demo Video"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "GIGA Accounting (Trial Version) - Installation"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3102.jpg",
+          "width": "327",
+          "height": "494",
+          "alt": "GIGA Accounting (Trial Version) - Installation"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "t3a",
+          "content": "GIGA Accounting (Single User Version) - Installation",
+          "items": [
+            "Just enter the GIGA Accounting (Single User Version) ‘Activation Code’ in the ‘Trial Version’ to convert into a Single User licensed version.",
+            "The Single user version is itself a server, it can be converted into a multi-users network by joining it with other workstations."
+          ]
+        },
+        {
+          "key": "007",
+          "section": "t3a",
+          "content": "GIGA Accounting (Multi Users Version) - Installation",
+          "items": [
+            "Install the GIGA Accounting (Trial Version) first, and then complete the installation with the 'GIGA Accounting (Multi Users)' Installation CD"
+          ]
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3202.jpg",
+          "width": "327",
+          "height": "494",
+          "alt": "GIGA Accounting (Multi Users Version) - Installation"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        },
+        {
+          "key": "012",
+          "section": "t3a",
+          "content": "Server Databases - Reset password : 000000",
+          "items": [
+            "To ensure protection of privacy of the system databases information, there are rules for databases password setting, e.g. it should be at least 8 digits long, please refer to the program 『Reset Databases Password』 in the software, detail requirements are set out in the program hint. If, for over 3 days, the databases system is using some very simple passwords like 『000000』 or 『123456』, the system will automatically disable this login setting, and any attempt to login will fail. Please use the Installation CD, and run the program 『Server Databases – Reset password : 000000』, and after logging in, please reset the databases password, this time using a more complex one to avoid doing this all over again."
+          ]
+        },
+        {
+          "key": "015",
+          "section": "t3a",
+          "content": "Import Vouchers from Excel files"
+        }
+      ],
+      "videos": [
+        {
+          "key": "021",
+          "section": "l2a"
+        },
+        {
+          "key": "022",
+          "section": "l2a"
+        },
+        {
+          "key": "023",
+          "section": "l2a"
+        },
+        {
+          "key": "024",
+          "section": "t3a",
+          "content": "GIGA Accounting (Trial Version) - Installation"
+        },
+        {
+          "key": "025",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/9k-gwpLvXiU",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "026",
+          "section": "lin"
+        },
+        {
+          "key": "027",
+          "section": "t3a",
+          "content": "GGIGA Accounting (Multi Users Version) - Installation"
+        },
+        {
+          "key": "028",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/I3IjJ2o0nL4",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "029",
+          "section": "lin"
+        },
+        {
+          "key": "030",
+          "section": "t3a",
+          "content": "Server Databases - Reset password : 000000"
+        },
+        {
+          "key": "031",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/fvVsnPKO3qk",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "032",
+          "section": "lin"
+        },
+        {
+          "key": "033",
+          "section": "t3a",
+          "content": "Import Vouchers from Excel files"
+        },
+        {
+          "key": "034",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/nTG8NHpaAW0",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "035",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1003-simp",
+      "parent": "videos",
+      "_name": "示范视频 - 香港会计系统软件",
+      "_content": "示范视频 - 香港会计系统软件 | 中英文繁简体操作 | 印支票功能",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "示范视频"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "安装 GIGA Accounting(试用版)"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3103.jpg",
+          "width": "327",
+          "height": "494",
+          "alt": "安装 GIGA Accounting(试用版)"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "t3a",
+          "content": "安装 GIGA Accounting （单用户版）",
+          "items": [
+            "已安装 GIGA Accounting （试用版），无需安装，只需输入 ‘单用户版’ 启动编码便可即时转换成 GIGA Accounting （单用户版）。",
+            "单用户版相等到一部主机使用权，可随时与其他分机组成一个多用户网络。"
+          ]
+        },
+        {
+          "key": "007",
+          "section": "t3a",
+          "content": "安装 GIGA Accounting （多用户版）",
+          "items": [
+            "请先安装 GIGA Accounting （试用版），再用 GIGA Accounting （多用户版）光碟进行安装。"
+          ]
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3203.jpg",
+          "width": "327",
+          "height": "494",
+          "alt": "安装 GIGA Accounting （多用户版）"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        },
+        {
+          "key": "012",
+          "section": "t3a",
+          "content": "主机资料库：重设密码 - 000000",
+          "items": [
+            "系统资料库为保护资料保密性，一般对密码设定有一些要求，例如至少 8 个位或以上，其他详情请参阅 『更改资料库密码』 当中的提示，如果连续三天或以上系统以非常简单的密码登录，例如 『000000』 或 『123456』,系统会自动取消该密码设定，这时系统将会无法登入，解决办法是到安装光碟上执行 『主机资料库：重设密码 - 000000』,便可重新登入,请尽快更改资料库密码,用较复杂的密码,以免再被系统取消登入."
+          ]
+        },
+        {
+          "key": "015",
+          "section": "t3a",
+          "content": "由 Excel 档案大量输入凭证"
+        }
+      ],
+      "videos": [
+        {
+          "key": "021",
+          "section": "l2a"
+        },
+        {
+          "key": "022",
+          "section": "l2a"
+        },
+        {
+          "key": "023",
+          "section": "l2a"
+        },
+        {
+          "key": "024",
+          "section": "t3a",
+          "content": "安装 GIGA Accounting(试用版)"
+        },
+        {
+          "key": "025",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/9k-gwpLvXiU",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "026",
+          "section": "lin"
+        },
+        {
+          "key": "027",
+          "section": "t3a",
+          "content": "安装 GIGA Accounting （多用户版）"
+        },
+        {
+          "key": "028",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/I3IjJ2o0nL4",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "029",
+          "section": "lin"
+        },
+        {
+          "key": "030",
+          "section": "t3a",
+          "content": "主机资料库：重设密码 - 000000"
+        },
+        {
+          "key": "031",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/fvVsnPKO3qk",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "032",
+          "section": "lin"
+        },
+        {
+          "key": "033",
+          "section": "t3a",
+          "content": "由 Excel 档案大量输入凭证"
+        },
+        {
+          "key": "034",
+          "section": "v1a",
+          "src": "https://www.youtube.com/embed/nTG8NHpaAW0",
+          "width": "350",
+          "height": "197"
+        },
+        {
+          "key": "035",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1005-chin",
+      "parent": "accounting",
+      "_name": "遙控軟件 (安裝 GIGA Accounting)",
+      "_content": "遙控軟件 (安裝 GIGA Accounting)",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "遙控軟件(安裝 GIGA Accounting)"
+        },
+        {
+          "key": "002",
+          "section": "t1a",
+          "content": "如需要遙距安裝會計軟件，請先安裝以下軟件 (免費)"
+        },
+        {
+          "key": "003",
+          "section": "b4a",
+          "src": "https://remotedesktop.google.com/",
+          "logo": "3",
+          "content": "Chrome 遠端桌面"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "(請用 Google Chrome 瀏覽器)"
+        },
+        {
+          "key": "005",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3611.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "遙控軟件(安裝 GIGA Accounting 會計軟件)"
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        },
+        {
+          "key": "007",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3612.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "遙控軟件(安裝 GIGA Accounting 會計軟件)"
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3613.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "遙控軟件(安裝 GIGA Accounting 會計軟件)"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        },
+        {
+          "key": "011",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3614.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "遙控軟件(安裝 GIGA Accounting 會計軟件)"
+        },
+        {
+          "key": "012",
+          "section": "t3a",
+          "content": "將產生的一組數字填寫在 ‘技術支援 / 查詢’ 的頁面當中（在留言欄內），『電郵地址』 請使用付款時所登記的地址。"
+        }
+      ]
+    },
+    {
+      "id": "1005-engl",
+      "parent": "accounting",
+      "_name": "Remote Access Software (Installation)",
+      "_content": "Remote Access Software (Installation)",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "Remote Access Software (GIGA Accounting Installation)"
+        },
+        {
+          "key": "002",
+          "section": "t1a",
+          "content": "A free software for remote installation of the Accounting Software"
+        },
+        {
+          "key": "003",
+          "section": "b4a",
+          "src": "https://remotedesktop.google.com/",
+          "logo": "3",
+          "content": "Chrome Remote Desktop"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "(FOR Google Chrome Browser)"
+        },
+        {
+          "key": "005",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3621.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "remote installation of the Accounting Software"
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        },
+        {
+          "key": "007",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3622.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "remote installation of the Accounting Software"
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3623.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "remote installation of the Accounting Software"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        },
+        {
+          "key": "011",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3624.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "remote installation of the Accounting Software"
+        },
+        {
+          "key": "012",
+          "section": "t3a",
+          "content": "Put the generated numbers in the 『Technical Support』 page, and please use the same 『Email Address』 as is registered in the payment process."
+        }
+      ]
+    },
+    {
+      "id": "1005-simp",
+      "parent": "accounting",
+      "_name": "遥控软件 (安装 GIGA Accounting)",
+      "_content": "遥控软件 (安装 GIGA Accounting)",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "遥控软件(安装 GIGA Accounting)"
+        },
+        {
+          "key": "002",
+          "section": "t1a",
+          "content": "如需要遥距安装会计软件，请先安装以下软件(免费)"
+        },
+        {
+          "key": "003",
+          "section": "b4a",
+          "src": "https://remotedesktop.google.com/",
+          "logo": "3",
+          "content": "Chrome 远程桌面"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "(请用 Google Chrome 浏览器)"
+        },
+        {
+          "key": "005",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3631.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "遥控软件(安装 GIGA Accounting 会计软件)"
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        },
+        {
+          "key": "007",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3632.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "遥控软件(安装 GIGA Accounting 会计软件)"
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3633.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "遥控软件(安装 GIGA Accounting 会计软件)"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        },
+        {
+          "key": "011",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_3634.jpg",
+          "width": "749",
+          "height": "562",
+          "alt": "遥控软件(安装 GIGA Accounting 会计软件)"
+        },
+        {
+          "key": "012",
+          "section": "t3a",
+          "content": "将产生的一组数字填写在 ‘技术支持 / 查询’ 的页面当中（在留言栏内），『电邮地址』 请使用付款时所登记的地址。"
+        }
+      ]
+    },
+    {
+      "id": "1006-chin",
+      "parent": "accounting",
+      "_name": "中文/英文會計系統 繁簡體軟體介面",
+      "_content": "服務推介 - 中文/英文會計系統 | 繁簡體軟體介面 HK$ 1,000 (10 用戶)",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "會計系統及服務推介"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "b3a",
+          "src": "/accounting/accounting-software-promotion/1001-chin",
+          "content": "超值會計軟件"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "按月會計理賬",
+          "items": [
+            "小型公司, HK$ 1,000 -$ 1,500  ,視乎交易量而定。其他中型以上公司,HK$ 2,000 起。電腦會計軟件入帳，清楚準確。"
+          ]
+        },
+        {
+          "key": "005",
+          "section": "t3a",
+          "content": "獨資／合伙公司報稅",
+          "items": [
+            "優惠價 HK$ 2,000 起，快捷妥當。包填稅表，免費遞交稅局。"
+          ]
+        },
+        {
+          "key": "006",
+          "section": "t3a",
+          "content": "有限公司報稅",
+          "items": [
+            "HK$ 5,000 起。價錢已包括安排核數，報稅，相關的會議記錄等。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1006-engl",
+      "parent": "accounting",
+      "_name": "Accounting system software for small business HK$ 1,000 (10 users)",
+      "_content": "Accounting system software for small medium business HK$ 1,000 (10 Users)",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "Accounting Software and Accounting Services"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "b3a",
+          "src": "/accounting/accounting-software-promotion/1001-engl",
+          "content": "Accounting Software ( Giga Accounting )"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "Monthly Accounting Service",
+          "items": [
+            "Small sized companies : HK$ 1,000 -$ 1,500",
+            "Others :  HK$ 2,000 up , Depending on number of transactions and complexity"
+          ]
+        },
+        {
+          "key": "005",
+          "section": "t3a",
+          "content": "Tax services for unincorporated business",
+          "items": [
+            "Sole proprietorship : HK$ 2,000 up",
+            "Partnership : HK$ 2,500 up",
+            "(Note: You have to prepare major financial figures of your Company)",
+            "you will receive - Profits and loss account, balance sheet, tax computations and duly completed tax return copy in Chinese-and-English version."
+          ]
+        },
+        {
+          "key": "006",
+          "section": "t3a",
+          "content": "Audit and Tax service for incorporated business",
+          "items": [
+            "HK$ 5,000 up, (Note: you have to prepare company income statement, balance sheet and ledger for audit purpose. Accountancy fee may be charged in case you are in lack of these documents.)",
+            "you will receive – Audited financial statements, duly completed profits tax return copy and AGM minutes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1006-simp",
+      "parent": "accounting",
+      "_name": "服务推介 - 中文/英文会计系统 | 繁简体软件介面 HK$ 1,000 (10 用户)",
+      "_content": "服务推介 - 中文/英文会计系统 | 繁简体软件介面 HK$ 1,000 (10 用户)",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "会计系统及服务推介"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "b3a",
+          "src": "/accounting/accounting-software-promotion/1001-simp",
+          "content": "超值会计软件"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "按月会计理账",
+          "items": [
+            "小型公司, HK$ 1,000 -$ 1,500 , 视乎交易量而定。其他中型以上公司, HK$ 2,000 起。计算机会计软件入账，清楚准确。"
+          ]
+        },
+        {
+          "key": "005",
+          "section": "t3a",
+          "content": "独资／合伙公司报税",
+          "items": [
+            "优惠价 HK$ 2,000 起，快捷妥当。包填税表，免费递交税局。"
+          ]
+        },
+        {
+          "key": "006",
+          "section": "t3a",
+          "content": "有限公司报税",
+          "items": [
+            "HK$ 5,000 起。价钱已包括安排核数，报税，相关的会议记录等。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1007-chin",
+      "parent": "accounting",
+      "_name": "技術支援 / 查詢",
+      "_content": "技術支援 / 查詢",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "技術支援 / 查詢"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "005",
+          "section": "c1a",
+          "columns" : {
+            "name_01" : "姓名 （必須）",
+            "name_02" : "請填寫姓名",
+            "company_01" : "公司名稱 （必須）",
+            "company_02" : "請填寫公司名稱",
+            "email_01" : "電郵地址",
+            "email_02" : "請填寫您的電郵地址",
+            "message_01" : "留言",
+            "message_02" : "留言",
+            "submit" : "提交",
+            "title" : "查詢表格",
+            "hello" : "您好，",
+            "reply" : "謝謝您的查詢，將盡快給您回復。"
+          }
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1008-chin",
+      "parent": "accounting",
+      "_name": "聯絡我們",
+      "_content": "聯絡我們",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "聯絡我們"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "L1a",
+          "items" : [
+            {
+              "left"  : "地址 :",
+              "right" : "香港旺角 彌敦道 655 號 二十樓 2003 室"
+            },
+            {
+              "left"  : "電話 :",
+              "right" : "+852 8170 0362"
+            },
+            {
+              "left"  : "whatsapp :",
+              "right" : "+44 77935 16532"
+            },
+            {
+              "left"  : "",
+              "right" : "（由於部分技術支援部員工身處英國，時差關係，請盡量使用 whatsapp 查詢）"
+            },
+            {
+              "left"  : "電郵 :",
+              "right" : "info@linfungaccounting.com"
+            }
+          ]
+        },
+        {
+          "key": "007",
+          "section": "c1a",
+          "columns" : {
+            "name_01" : "姓名 （必須）",
+            "name_02" : "請填寫姓名",
+            "company_01" : "公司名稱 （必須）",
+            "company_02" : "請填寫公司名稱",
+            "email_01" : "電郵地址",
+            "email_02" : "請填寫您的電郵地址",
+            "message_01" : "留言",
+            "message_02" : "留言",
+            "submit" : "提交",
+            "title" : "查詢表格",
+            "hello" : "您好，",
+            "reply" : "謝謝您的查詢，將盡快給您回復。"
+          }
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1007-engl",
+      "parent": "accounting",
+      "_name": "Technical Support",
+      "_content": "Technical Support",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "Technical Support / Enquiries"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "005",
+          "section": "c1a",
+          "columns" : {
+            "name_01" : "Name (Required)",
+            "name_02" : "Full name",
+            "company_01" : "Company Name (Required)",
+            "company_02" : "Company name",
+            "email_01" : "Email Address (Required)",
+            "email_02" : "email address",
+            "message_01" : "Message",
+            "message_02" : "Message",
+            "submit" : "SUBMIT",
+            "title" : "Contact Form",
+            "hello" : "Hello,",
+            "reply" : "Thankyou for your enquiries, we will come back to you very soon."
+          }
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1008-engl",
+      "parent": "accounting",
+      "_name": "Contact Us",
+      "_content": "Contact Us",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "Contact Us"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "L1a",
+          "items" : [
+            {
+              "left"  : "Address :",
+              "right" : "Room 2003, 20th Floor, No. 655 Nathan Road, Mongkok, Hong Kong."
+            },
+            {
+              "left"  : "Telephone :",
+              "right" : "+852 8170 0362"
+            },
+            {
+              "left"  : "whatsapp :",
+              "right" : "+44 77935 16532"
+            },
+            {
+              "left"  : "Email :",
+              "right" : "info@linfungaccounting.com"
+            }
+          ]
+        },
+        {
+          "key": "007",
+          "section": "c1a",
+          "columns" : {
+            "name_01" : "Name (Required)",
+            "name_02" : "Full name",
+            "company_01" : "Company Name (Required)",
+            "company_02" : "Company name",
+            "email_01" : "Email Address (Required)",
+            "email_02" : "email address",
+            "message_01" : "Message",
+            "message_02" : "Message",
+            "submit" : "SUBMIT",
+            "title" : "Contact Form",
+            "hello" : "Hello,",
+            "reply" : "Thankyou for your enquiries, we will come back to you very soon."
+          }
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1007-simp",
+      "parent": "accounting",
+      "_name": "技术支持 / 查询",
+      "_content": "技术支持 / 查询",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "技术支持 / 查询"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "005",
+          "section": "c1a",
+          "columns" : {
+            "name_01" : "姓名 （必须）",
+            "name_02" : "请填写姓名",
+            "company_01" : "公司名称 （必须）",
+            "company_02" : "请填写公司名称",
+            "email_01" : "电邮地址（必须）",
+            "email_02" : "请填写您的电邮地址",
+            "message_01" : "留言",
+            "message_02" : "留言",
+            "submit" : "提交",
+            "title" : "查询表格",
+            "hello" : "您好，",
+            "reply" : "谢谢您的查询，将尽快给您回复。"
+          }
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1008-simp",
+      "parent": "accounting",
+      "_name": "联络我们",
+      "_content": "联络我们",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "联络我们"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "L1a",
+          "items" : [
+            {
+              "left"  : "地址 :",
+              "right" : "香港旺角 弥敦道 655 号 二十楼 2003 室"
+            },
+            {
+              "left"  : "电话 :",
+              "right" : "+852 8170 0362"
+            },
+            {
+              "left"  : "whatsapp :",
+              "right" : "+44 77935 16532"
+            },
+            {
+              "left"  : "电邮 :",
+              "right" : "info@linfungaccounting.com"
+            }
+          ]
+        },
+        {
+          "key": "007",
+          "section": "c1a",
+          "columns" : {
+            "name_01" : "姓名 （必须）",
+            "name_02" : "请填写姓名",
+            "company_01" : "公司名称 （必须）",
+            "company_02" : "请填写公司名称",
+            "email_01" : "电邮地址（必须）",
+            "email_02" : "请填写您的电邮地址",
+            "message_01" : "留言",
+            "message_02" : "留言",
+            "submit" : "提交",
+            "title" : "查询表格",
+            "hello" : "您好，",
+            "reply" : "谢谢您的查询，将尽快给您回复。"
+          }
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1004-chin",
+      "parent": "accounting",
+      "_name": "免費會計軟件",
+      "_content": "免費會計軟件",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "免費 GIGA ACCOUNTING 會計軟件"
+        },
+        {
+          "key": "002",
+          "section": "b5a",
+          "content": "安裝會計軟件",
+          "items": [
+            {
+              "content" : "安裝 GIGA Accounting 單用戶版，或 多用戶版，需要先安裝 GIGA Accounting 試用版",
+              "split" : false
+            },
+            {
+              "content" : "如仍未安裝，請按",
+              "split" : true,
+              "logo" : "0",
+              "src": "/accounting/accounting-software-free-download/1002-chin",
+              "linking" : "下載試用版"
+            },
+            {
+              "content" : "觀看視頻",
+              "split" : true,
+              "logo" : "4",
+              "src": "/videos/accounting-software-demonstration-videos/1003-chin",
+              "linking" : "如何安裝試用版，軟件操作示範"
+            }
+          ]
+        },
+        {
+          "key": "003",
+          "section": "b5a",
+          "content": "安裝 GIGA ACCOUNTING 單用戶版",
+          "items": [
+            {
+              "content" : "如已安裝 GIGA Accounting （試用版），無需再安裝，只需輸入 ‘單用戶版’ 啟動編碼便可即時轉換成 GIGA Accounting （單用戶版）",
+              "split" : false
+            },
+            {
+              "content" : "請在下面選擇 'GIGA ACCOUNTING 單用戶版' 方案，填寫資料後將會收到載有 '單用戶版' 啟動編碼的電郵，再在軟件中輸入 '啟動編碼' 便正式轉換成 '單用戶版'",
+              "split" : false
+            }
+          ]
+        },
+        {
+          "key": "004",
+          "section": "b5a",
+          "content": "安裝 GIGA ACCOUNTING 多用戶版",
+          "items": [
+            {
+              "content" : "請在下面選擇 'GIGA ACCOUNTING 多用戶版' 方案，填寫資料後將會收到載有 ‘多用戶版’ 啟動編碼的電郵，電郵尚會包括下載 'GIGA ACCOUNTING 多用戶版' 的下載連結，下載及安裝後，再在主機及分機的軟件中輸入 '啟動編碼' 便正式轉換成 '多用戶版'",
+              "split" : false
+            },
+            {
+              "content" : "觀看視頻",
+              "split" : true,
+              "logo" : "4",
+              "src": "/videos/accounting-software-demonstration-videos/1003-chin",
+              "linking" : "如何安裝多用戶版"
+            },
+            {
+              "content" : "請於收到電郵日起計的 15 天內為主機及各工作台安裝軟件及輸入啟動編碼，逾期輸入編碼將會無效。（已輸入啟動編碼的主機或工作台，將來如需重新安裝軟件，只要輸入原來的啟動編碼，仍可啟動軟件，沒有時間限制。）",
+              "split" : false
+            }
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "t5a",
+          "items": [
+            {
+              "type" : "heading01",
+              "columns" : {
+                  "a01" : "GIGA ACCOUNTING 單用戶版",     
+                  "a02" : "GIGA ACCOUNTING 多用戶版",
+                  "a03" : "GIGA ACCOUNTING 遙距安裝",
+                  "a04" : "GIGA ACCOUNTING - 網上支援 (年費)"
+                }
+            },
+            {
+              "type" : "heading02",
+              "columns" : {             
+                  "a01" : "免費",
+                  "a02" : "免費",
+                  "a03" : "HK$ 200",
+                  "a04" : "HK$ 600"
+              }
+            },
+            {
+              "type" : "button",
+              "columns" : {
+                  "a01" : "選擇",
+                  "a02" : "選擇",
+                  "a03" : "Paypal",
+                  "a04" : "Paypal",
+                  "b01" : "/members/accounting-software-single-user-version-download/1205-chin",
+                  "b02" : "/members/accounting-software-multi-users-version-download/1202-chin",
+                  "b03" : "/accounting/accounting-software-remote-installation-payment/1206-chin",
+                  "b04" : "/accounting/accounting-software-support-services-payment/1207-chin"
+              }
+            },
+            {
+              "type" : "list",
+              "columns" :
+              {
+                "a01" : [
+                  "啟動金匙可以為一部主機註冊，供一人使用",
+                  "中/英文，繁簡體操作及輸入介面",
+                  "送印支票軟件"
+                ],
+                "a02" : [
+                  "啟動金匙可以為一部主機及 10 部分機註冊，供十人同時使用",
+                  "中/英文，繁簡體操作及輸入介面",
+                  "送印支票軟件"
+                ],
+                "a03" : [
+                  "遙距安裝 GIGA ACCOUNTING 會計軟件",
+                  "遙距操作支援"
+                ],
+                "a04" : [
+                  "網上解答操作疑難",
+                  "遙距操作支援（一次）"
+                ]
+              }
+            }
+          ]      
+        },
+        {
+          "key": "007",
+          "section": "l2a"
+        },
+        {
+          "key": "008",
+          "section": "t6a",
+          "items": [
+            {
+              "key" : "101",
+              "h01" : "GIGA ACCOUNTING 單用戶版",
+              "h02" : "免費",
+              "button" : "選擇",
+              "src" : "/members/accounting-software-single-user-version-download/1205-chin",
+              "list" : [
+                "啟動金匙可以為一部主機註冊，供一人使用",
+                "中/英文，繁簡體操作及輸入介面",
+                "送印支票軟件"
+              ]
+            },
+            {
+              "key" : "102",
+              "h01" : "GIGA ACCOUNTING 多用戶版",
+              "h02" : "免費",
+              "button" : "選擇",
+              "src" : "/members/accounting-software-multi-users-version-download/1202-chin",
+              "list" : [
+                "啟動金匙可以為一部主機及 10 部分機註冊，供十人同時使用",
+                "中/英文，繁簡體操作及輸入介面",
+                "送印支票軟件"
+              ]
+            },
+            {
+              "key" : "103",
+              "h01" : "GIGA ACCOUNTING 遙距安裝",
+              "h02" : "HK$ 200",
+              "button" : "Paypal",
+              "src" : "/accounting/accounting-software-remote-installation-payment/1206-chin",
+              "list" : [
+                "遙距安裝 GIGA ACCOUNTING 會計軟件",
+                "遙距操作支援"
+              ]
+            },
+            {
+              "key" : "104",
+              "h01" : "GIGA ACCOUNTING - 網上支援 (年費)",
+              "h02" : "HK$ 600",
+              "button" : "Paypal",
+              "src" : "/accounting/accounting-software-support-services-payment/1207-chin",
+              "list" : [
+                "網上解答操作疑難",
+                "遙距操作支援（一次）"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1004-engl",
+      "parent": "accounting",
+      "_name": "Free Accounting Software",
+      "_content": "Free Accounting Software",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "Free GIGA ACCOUNTING Accounting Software"
+        },
+        {
+          "key": "002",
+          "section": "b5a",
+          "content": "Accounting Software Installation",
+          "items": [
+            {
+              "content" : "The single user version, and the multi users version require the installation of the trial version first.",
+              "split" : false
+            },
+            {
+              "content" : "to install the trial version",
+              "split" : true,
+              "logo" : "0",
+              "src": "/accounting/accounting-software-free-download/1002-engl",
+              "linking" : "Download"
+            },
+            {
+              "content" : "",
+              "split" : true,
+              "logo" : "4",
+              "src": "/videos/accounting-software-demonstration-videos/1003-engl",
+              "linking" : "How to install the trial software , Basic operations(Videos)"
+            }
+          ]
+        },
+        {
+          "key": "003",
+          "section": "b5a",
+          "content": "GIGA Accounting Single User version Installation",
+          "items": [
+            {
+              "content" : "With the trial version installed, no further installation needed, just enter the GIGA Accounting (Single User Version) 'Activation Code' in the 'Trial Version' to convert into a Single User version.",
+              "split" : false
+            },
+            {
+              "content" : "Choose the 'GIGA Accounting Single User' plan below, after filling in the customer details, an email will be sent to notify the 'Acitvation Code'.",
+              "split" : false
+            }
+          ]
+        },
+        {
+          "key": "004",
+          "section": "b5a",
+          "content": "GIGA Accounting Multi Users version Installation",
+          "items": [
+            {
+              "content" : "Choose the 'GIGA Accounting Multi Users' plan below, after filling in the customer details, an email will be sent to notify the 'Acitvation Code', a download link will be included for 'GIGA Accounting Multi Users'  version. After installations, enter the activation code into to server and the other workstations to activate the software.",
+              "split" : false
+            },
+            {
+              "content" : "",
+              "split" : true,
+              "logo" : "4",
+              "src": "/videos/accounting-software-demonstration-videos/1003-engl",
+              "linking" : "How to install multi users version(Videos)"
+            }
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "t5a",
+          "items": [
+            {
+              "type" : "heading01",
+              "columns" : {
+                  "a01" : "GIGA ACCOUNTING Single User",     
+                  "a02" : "GIGA ACCOUNTING Multi-users",
+                  "a03" : "GIGA ACCOUNTING remote installation services",
+                  "a04" : "GIGA ACCOUNTING - tech support services (per annum)"
+                }
+            },
+            {
+              "type" : "heading02",
+              "columns" : {             
+                  "a01" : "Free",
+                  "a02" : "Free",
+                  "a03" : "HK$ 200",
+                  "a04" : "HK$ 600"
+              }
+            },
+            {
+              "type" : "button",
+              "columns" : {
+                  "a01" : "SELECT",
+                  "a02" : "SELECT",
+                  "a03" : "Paypal",
+                  "a04" : "Paypal",
+                  "b01" : "/members/accounting-software-single-user-version-download/1205-engl",
+                  "b02" : "/members/accounting-software-multi-users-version-download/1202-engl",
+                  "b03" : "/accounting/accounting-software-remote-installation-payment/1206-engl",
+                  "b04" : "/accounting/accounting-software-support-services-payment/1207-engl"
+              }
+            },
+            {
+              "type" : "list",
+              "columns" :
+              {
+                "a01" : [
+                  "Activation key for activating one machine",
+                  "Chinese/English interfaces, input and reporting",
+                  "cheque printing function incl."
+                ],
+                "a02" : [
+                  "Activation key for activating 1 server and 10 other machines",
+                  "Chinese/English interfaces, input and reporting",
+                  "cheque printing function incl."
+                ],
+                "a03" : [
+                  "GIGA ACCOUNTING remote installation",
+                  "remote tech support"
+                ],
+                "a04" : [
+                  "email tech enquiry support",
+                  "remote tech support(one time included)"
+                ]
+              }
+            }
+          ]      
+        },
+        {
+          "key": "007",
+          "section": "l2a"
+        },
+        {
+          "key": "008",
+          "section": "t6a",
+          "items": [
+            {
+              "key" : "101",
+              "h01" : "GIGA ACCOUNTING Single User",
+              "h02" : "Free",
+              "button" : "SELECT",
+              "src" : "/members/accounting-software-single-user-version-download/1205-engl",
+              "list" : [
+                "Activation key for activating one machine",
+                "Chinese/English interfaces, input and reporting",
+                "cheque printing function incl."
+              ]
+            },
+            {
+              "key" : "102",
+              "h01" : "GIGA ACCOUNTING Multi-users",
+              "h02" : "Free",
+              "button" : "SELECT",
+              "src" : "/members/accounting-software-multi-users-version-download/1202-engl",
+              "list" : [
+                "Activation key for activating 1 server and 10 other machines",
+                "Chinese/English interfaces, input and reporting",
+                "cheque printing function incl."
+              ]
+            },
+            {
+              "key" : "103",
+              "h01" : "GIGA ACCOUNTING remote installation services",
+              "h02" : "HK$ 200",
+              "button" : "Paypal",
+              "src" : "/accounting/accounting-software-remote-installation-payment/1206-engl",
+              "list" : [
+                "GIGA ACCOUNTING remote installation",
+                "remote tech support"
+              ]
+            },
+            {
+              "key" : "104",
+              "h01" : "GIGA ACCOUNTING - tech support services (per annum)",
+              "h02" : "HK$ 600",
+              "button" : "Paypal",
+              "src" : "/accounting/accounting-software-support-services-payment/1207-engl",
+              "list" : [
+                "email tech enquiry support",
+                "remote tech support(one time included)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1004-simp",
+      "parent": "accounting",
+      "_name": "免费会计软件",
+      "_content": "免费会计软件",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "免费 GIGA ACCOUNTING 会计软件"
+        },
+        {
+          "key": "002",
+          "section": "b5a",
+          "content": "安装会计软件",
+          "items": [
+            {
+              "content" : "安装 GIGA Accounting 单用戶版，或 多用户版，需要先安装 GIGA Accounting 试用版",
+              "split" : false
+            },
+            {
+              "content" : "如仍未安装，请按",
+              "split" : true,
+              "logo" : "0",
+              "src": "/accounting/accounting-software-free-download/1002-simp",
+              "linking" : "下载试用版"
+            },
+            {
+              "content" : "观看视频",
+              "split" : true,
+              "logo" : "4",
+              "src": "/videos/accounting-software-demonstration-videos/1003-simp",
+              "linking" : "如何安装试用版 ，软件操作示范"
+            }
+          ]
+        },
+        {
+          "key": "003",
+          "section": "b5a",
+          "content": "安装 GIGA ACCOUNTING 单用户版",
+          "items": [
+            {
+              "content" : "如已安装 GIGA Accounting （试用版），无需再安装，只需输入 ‘单用户版’ 启动编码便可即时转换成 GIGA Accounting （单用户版）",
+              "split" : false
+            },
+            {
+              "content" : "请在下面选择 'GIGA ACCOUNTING 单用户版' 方案，填写资料后将会收到载有 '单用户版' 启动编码的电邮，再在软件中输入 '启动编码' 便正式转换成 '单用户版'",
+              "split" : false
+            }
+          ]
+        },
+        {
+          "key": "004",
+          "section": "b5a",
+          "content": "安装 GIGA ACCOUNTING 多用户版",
+          "items": [
+            {
+              "content" : "请在下面选择 'GIGA ACCOUNTING 多用户版' 方案，填写资料后将会收到载有 '多用户版' 启动编码的电邮，电邮尚会包括下载 'GIGA ACCOUNTING 多用户版' 的下载连结，下载及安装后，再在主机及分机的软件中输入 '启动编码' 便正式转换成 '多用户版'",
+              "split" : false
+            },
+            {
+              "content" : "观看视频",
+              "split" : true,
+              "logo" : "4",
+              "src": "/videos/accounting-software-demonstration-videos/1003-simp",
+              "linking" : "如何安装多用户版"
+            },
+            {
+              "content" : "请于收到电邮日起计的 15 天内为主機及各工作台安装软件及输入启动编码，逾期输入编码将会无效。（已输入启动编码的主机或工作台，将来如需重新安装软件，只要输入原来的启动编码，仍可启动软件，没有时间限制。）",
+              "split" : false
+            }
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "t5a",
+          "items": [
+            {
+              "type" : "heading01",
+              "columns" : {
+                  "a01" : "GIGA ACCOUNTING 单用户版",     
+                  "a02" : "GIGA ACCOUNTING 多用户版",
+                  "a03" : "GIGA ACCOUNTING 遥距安装",
+                  "a04" : "GIGA ACCOUNTING - 网上支援 (年费)"
+                }
+            },
+            {
+              "type" : "heading02",
+              "columns" : {             
+                  "a01" : "免费",
+                  "a02" : "免费",
+                  "a03" : "HK$ 200",
+                  "a04" : "HK$ 600"
+              }
+            },
+            {
+              "type" : "button",
+              "columns" : {
+                  "a01" : "选择",
+                  "a02" : "选择",
+                  "a03" : "Paypal",
+                  "a04" : "Paypal",
+                  "b01" : "/members/accounting-software-single-user-version-download/1205-simp",
+                  "b02" : "/members/accounting-software-multi-users-version-download/1202-simp",
+                  "b03" : "/accounting/accounting-software-remote-installation-payment/1206-simp",
+                  "b04" : "/accounting/accounting-software-support-services-payment/1207-simp"
+              }
+            },
+            {
+              "type" : "list",
+              "columns" :
+              {
+                "a01" : [
+                  "启动金匙可以为一部主机注册，供一人使用",
+                  "中/英文，繁简体操作及输入介面",
+                  "送印支票软件"
+                ],
+                "a02" : [
+                  "启动金匙可以为一部主机及 10 部分机注册，供十人同时使用",
+                  "中/英文，繁简体操作及输入介面",
+                  "送印支票软件"
+                ],
+                "a03" : [
+                  "遥距安装 GIGA ACCOUNTING 会计软件",
+                  "遥距操作支援"
+                ],
+                "a04" : [
+                  "网上解答操作疑难",
+                  "遥距操作支援（一次）"
+                ]
+              }
+            }
+          ]      
+        },
+        {
+          "key": "007",
+          "section": "l2a"
+        },
+        {
+          "key": "008",
+          "section": "t6a",
+          "items": [
+            {
+              "key" : "101",
+              "h01" : "GIGA ACCOUNTING 单用户版",
+              "h02" : "免费",
+              "button" : "选择",
+              "src" : "/members/accounting-software-single-user-version-download/1205-simp",
+              "list" : [
+                "启动金匙可以为一部主机注册，供一人使用",
+                "中/英文，繁简体操作及输入介面",
+                "送印支票软件"
+              ]
+            },
+            {
+              "key" : "102",
+              "h01" : "GIGA ACCOUNTING 多用户版",
+              "h02" : "免费",
+              "button" : "选择",
+              "src" : "/members/accounting-software-multi-users-version-download/1202-simp",
+              "list" : [
+                "启动金匙可以为一部主机及 10 部分机注册，供十人同时使用",
+                "中/英文，繁简体操作及输入介面",
+                "送印支票软件"
+              ]
+            },
+            {
+              "key" : "103",
+              "h01" : "GIGA ACCOUNTING 遥距安装",
+              "h02" : "HK$ 200",
+              "button" : "Paypal",
+              "src" : "/accounting/accounting-software-remote-installation-payment/1206-simp",
+              "list" : [
+                "遥距安装 GIGA ACCOUNTING 会计软件",
+                "遥距操作支援"
+              ]
+            },
+            {
+              "key" : "104",
+              "h01" : "GIGA ACCOUNTING - 网上支援 (年费)",
+              "h02" : "HK$ 600",
+              "button" : "Paypal",
+              "src" : "/accounting/accounting-software-support-services-payment/1207-simp",
+              "list" : [
+                "网上解答操作疑难",
+                "遥距操作支援（一次）"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1201-chin",
+      "parent": "members",
+      "_name": "下載 GIGA Accounting 試用版 / 主機資料庫系統 - 選擇 Windows 系統",
+      "_content": "下載 GIGA Accounting 試用版 / 主機資料庫系統 - 選擇 Windows 系統",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "下載 GIGA Accounting 試用版 / 主機資料庫系統 - 選擇 Windows 系統"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "本頁面下載檔案適合以下語言操作系統 : - 繁體中文 Windows",
+          "items": [
+            "（下載後請將 ISO 檔案燒錄至光碟 — 點擊 ISO 檔案按右鍵選擇 『燒錄光碟影像』）",
+            "試用版與正式版本功能完全相同，正式版本屬於多用戶版，試用版則屬於單用戶版，及有使用期限制 (30天)",
+            "試用版和正式版軟件都需要進行啟動程序始可開始使用，試用版的啟動金匙會寄到以下填寫的電郵地址",
+            "本網站所有軟件均擁有 CSC 簽章憑證，貴客戶可放心下載使用。"
+          ]
+        },
+        {
+          "key": "003",
+          "section": "lin"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "首次登入資料",
+          "items": [
+            "用戶名稱 :  DEMO",
+            "密碼 :  DEMO",
+            "SQL 資料庫密碼 :  000000",
+            "登入後，請選擇啟動軟件功能，輸入啟動編碼，請建立個人戶口，設定密碼，請至少設定一人擁有最高級別權限，即 『0』 級別，為提高保障資料私隱度，請盡快更改 SQL 資料庫密碼。"
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "k1a",
+          "content": "按照閣下現時的操作系統搜尋合適的下載檔案",
+          "success" : "合適系統 :- ",
+          "failure" : "沒有合適系統可供下載",
+          "items": [
+            "姓名",
+            "電郵地址",
+            "操作系統",
+            "搜尋結果",
+            "下載檔案"
+          ]
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1202-chin",
+      "parent": "members",
+      "_name": "下載 GIGA Accounting 多用戶版 - 選擇 Windows 系統",
+      "_content": "下載 GIGA Accounting 多用戶版 - 選擇 Windows 系統",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "下載 GIGA Accounting 多用戶版 - 選擇 Windows 系統"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "本頁面下載檔案適合以下語言操作系統 : - 繁體中文 Windows",
+          "items": [
+            "（下載後請將 ISO 檔案燒錄至光碟 — 點擊 ISO 檔案按右鍵選擇 『燒錄光碟影像』）",
+            "試用版與正式版本功能完全相同，正式版本屬於多用戶版，試用版則屬於單用戶版，及有使用期限制 (30天)",
+            "試用版和正式版軟件都需要進行啟動程序始可開始使用，多用戶版的啟動金匙會寄到以下填寫的電郵地址",
+            "本網站所有軟件均擁有 CSC 簽章憑證，貴客戶可放心下載使用。"
+          ]
+        },
+        {
+          "key": "003",
+          "section": "lin"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "首次登入資料",
+          "items": [
+            "用戶名稱 :  DEMO",
+            "密碼 :  DEMO",
+            "SQL 資料庫密碼 :  000000",
+            "登入後，請選擇啟動軟件功能，輸入啟動編碼，請建立個人戶口，設定密碼，請至少設定一人擁有最高級別權限，即 『0』 級別，為提高保障資料私隱度，請盡快更改 SQL 資料庫密碼。"
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "k2a",
+          "content": "按照閣下現時的操作系統搜尋合適的下載檔案",
+          "success" : "合適系統 :- ",
+          "failure" : "沒有合適系統可供下載",
+          "items": [
+            "姓名",
+            "電郵地址",
+            "操作系統",
+            "搜尋結果",
+            "下載檔案"
+          ]
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1201-engl",
+      "parent": "members",
+      "_name": "Download GIGA Accounting (Trial Version) / Server Databases System - Select Windows System",
+      "_content": "Download GIGA Accounting (Trial Version) / Server Databases System - Select Windows System",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "Download GIGA Accounting (Trial Version) / Server Databases System - Select Windows System"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "the files downloaded from this page is suitable for the following systems :- Windows (English version)",
+          "items": [
+            "(the downloaded ISO image file can be burned to a CD/DVD — right-click the ISO image file and select 『Burn to CD』)",
+            "The trial version and the full version are identical in every aspects except that the full version has multi-users capabilities, the trial version is a single user version, and also there is a trial period limitation ( 30 days ) on the trial version.",
+            "The trial version and the full version would need to be activated using an activation key. The activation key for the trial version will be sent to email address entered here.",
+            "Feel free to download any software from this site as they are CSC certified."
+          ]
+        },
+        {
+          "key": "003",
+          "section": "lin"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "First Login Information",
+          "items": [
+            "User Name :  DEMO",
+            "Password  :  DEMO",
+            "SQL Databases Password :  000000",
+            "After first logging in, please activate the software using the activation code, setup personal log-in information including passwords, and please assign at least one individual with the highest accessing authority level, which is level 『0』,  And for enhancing data privacy, please change the SQL databases login password."
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "k1a",
+          "content": "Searching for the most appropriate software version for your existing operating systems",
+          "success" : "Version found :- ",
+          "failure" : "Sorry for no appropriate software version found, please switch to a Windows System",
+          "items": [
+            "Name",
+            "Email Address",
+            "Present Operating System",
+            "Relevant files chosen",
+            "Downloading files"
+          ]
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1202-engl",
+      "parent": "members",
+      "_name": "Download GIGA Accounting (Multi-users Version) - Select Windows System",
+      "_content": "Download GIGA Accounting (Multi-users Version) - Select Windows System",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "Download GIGA Accounting (Multi-users Version) - Select Windows System"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "the files downloaded from this page is suitable for the following systems :- Windows (English version)",
+          "items": [
+            "(the downloaded ISO image file can be burned to a CD/DVD — right-click the ISO image file and select 『Burn to CD』)",
+            "The trial version and the full version are identical in every aspects except that the full version has multi-users capabilities, the trial version is a single user version, and also there is a trial period limitation ( 30 days ) on the trial version.",
+            "The trial version and the full version would need to be activated using an activation key. The activation key for the multi-users version will be sent to email address entered here.",
+            "Feel free to download any software from this site as they are CSC certified."
+          ]
+        },
+        {
+          "key": "003",
+          "section": "lin"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "First Login Information",
+          "items": [
+            "User Name :  DEMO",
+            "Password  :  DEMO",
+            "SQL Databases Password :  000000",
+            "After first logging in, please activate the software using the activation code, setup personal log-in information including passwords, and please assign at least one individual with the highest accessing authority level, which is level 『0』,  And for enhancing data privacy, please change the SQL databases login password."
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "k2a",
+          "content": "Searching for the most appropriate software version for your existing operating systems",
+          "success" : "Version found :- ",
+          "failure" : "Sorry for no appropriate software version found, please switch to a Windows System",
+          "items": [
+            "Name",
+            "Email Address",
+            "Present Operating System",
+            "Relevant files chosen",
+            "Downloading files"
+          ]
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1201-simp",
+      "parent": "members",
+      "_name": "下载 GIGA Accounting 试用版 / 主机资料库系统 - 选择 Windows 系统",
+      "_content": "下载 GIGA Accounting 试用版 / 主机资料库系统 - 选择 Windows 系统",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "下载 GIGA Accounting 试用版 / 主机资料库系统 - 选择 Windows 系统"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "本页面下载文件适合以下语言操作系统 : - 简体中文 Windows",
+          "items": [
+            "（下载后请将 ISO 檔案刻录至光盘 — 点击 ISO 档案按右键选择 『刻录光盘影像』）",
+            "试用版与正式版本功能完全相同，正式版本属于多用户版，试用版则属于单用户版，及有使用期限制 (30天)",
+            "试用版和正式版软件都需要进行启动程序始可开始使用，试用版的启动金匙会寄到以下填写的电邮地址",
+            "本网站所有软件均拥有 CSC 签名证书，贵客户可放心下载使用。"
+          ]
+        },
+        {
+          "key": "003",
+          "section": "lin"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "首次登入资料",
+          "items": [
+            "用户名称 :  DEMO",
+            "密码 :  DEMO",
+            "SQL资料库密码 :  000000",
+            "登入后，请选择启动软件功能，输入启动编码，请建立个人户口，设定密码，请至少设定一人拥有最高级别权限，即 『0』 级别，为提高保障资料私隐度，请尽快更改 SQL资料库密码。"
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "k1a",
+          "content": "按照阁下现时的操作系统搜寻合适的下载文件",
+          "success" : "合适系统 :- ",
+          "failure" : "没有合适系统可供下载",
+          "items": [
+            "姓名",
+            "电邮地址",
+            "操作系统",
+            "搜寻结果",
+            "下载文件"
+          ]
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1202-simp",
+      "parent": "members",
+      "_name": "下载 GIGA Accounting 多用户版 - 选择 Windows 系统",
+      "_content": "下载 GIGA Accounting 多用户版 - 选择 Windows 系统",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "下载 GIGA Accounting 多用户版 - 选择 Windows 系统"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "本页面下载文件适合以下语言操作系统 : - 简体中文 Windows",
+          "items": [
+            "（下载后请将 ISO 檔案刻录至光盘 — 点击 ISO 档案按右键选择 『刻录光盘影像』）",
+            "试用版与正式版本功能完全相同，正式版本属于多用户版，试用版则属于单用户版，及有使用期限制 (30天)",
+            "试用版和正式版软件都需要进行启动程序始可开始使用，多用户版的启动金匙会寄到以下填写的电邮地址",
+            "本网站所有软件均拥有 CSC 签名证书，贵客户可放心下载使用。"
+          ]
+        },
+        {
+          "key": "003",
+          "section": "lin"
+        },
+        {
+          "key": "004",
+          "section": "t3a",
+          "content": "首次登入资料",
+          "items": [
+            "用户名称 :  DEMO",
+            "密码 :  DEMO",
+            "SQL资料库密码 :  000000",
+            "登入后，请选择启动软件功能，输入启动编码，请建立个人户口，设定密码，请至少设定一人拥有最高级别权限，即 『0』 级别，为提高保障资料私隐度，请尽快更改 SQL资料库密码。"
+          ]
+        },
+        {
+          "key": "005",
+          "section": "lin"
+        },
+        {
+          "key": "006",
+          "section": "k2a",
+          "content": "按照阁下现时的操作系统搜寻合适的下载文件",
+          "success" : "合适系统 :- ",
+          "failure" : "没有合适系统可供下载",
+          "items": [
+            "姓名",
+            "电邮地址",
+            "操作系统",
+            "搜寻结果",
+            "下载文件"
+          ]
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1203-chin",
+      "parent": "accounting",
+      "_name": "會員登入/登記",
+      "_content": "會員登入/登記",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "登入/登記"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "005",
+          "section": "L2a",
+          "columns" : {
+            "email_01" : "電郵地址",
+            "email_02" : "請填寫您的電郵地址",
+            "password_01" : "密碼",
+            "password_02" : "請填寫密碼(不少於8位)",
+            "submit" : "提交",
+            "title" : "登入",
+            "notRegister" : "還沒有登記 ?",
+            "reg" : "登記"
+          }
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1204-chin",
+      "parent": "accounting",
+      "_name": "會員登記",
+      "_content": "會員登記",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "登記"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "005",
+          "section": "L3a",
+          "columns" : {
+            "name_01" : "姓名 （必須）",
+            "name_02" : "請填寫姓名",
+            "email_01" : "電郵地址",
+            "email_02" : "請填寫您的電郵地址",
+            "password_01" : "密碼",
+            "password_02" : "請填寫密碼 (不少於8位)",
+            "password_11" : "密碼(核對)",
+            "password_12" : "請再一次填寫密碼 (不少於8位)",
+            "password_check" : "密碼核對失敗",
+            "submit" : "提交",
+            "title" : "登記",
+            "notRegister" : "還沒有登記 ?"
+          }
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1203-engl",
+      "parent": "accounting",
+      "_name": "Members Login/Register",
+      "_content": "Members Login/Register",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "Login/Register"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "005",
+          "section": "L2a",
+          "columns" : {
+            "email_01" : "Email Address",
+            "email_02" : "email Address",
+            "password_01" : "Password",
+            "password_02" : "password (at least 8 digits)",
+            "submit" : "SUBMIT",
+            "title" : "LOGIN",
+            "notRegister" : "Not yet register ?",
+            "reg" : "Register"
+          }
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1204-engl",
+      "parent": "accounting",
+      "_name": "Members Register",
+      "_content": "Members Register",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "REGISTER"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "005",
+          "section": "L3a",
+          "columns" : {
+            "name_01" : "Name",
+            "name_02" : "full name",
+            "email_01" : "Email Address",
+            "email_02" : "email Address",
+            "password_01" : "Password",
+            "password_02" : "password (at least 8 digits)",
+            "password_11" : "Password (Confirm)",
+            "password_12" : "password (enter once again)",
+            "password_check" : "password match fail",
+            "submit" : "SUBMIT",
+            "title" : "REGISTER"
+          }
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1203-simp",
+      "parent": "accounting",
+      "_name": "会员登入/登记",
+      "_content": "会员登入/登记",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "登入/登记"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "005",
+          "section": "L2a",
+          "columns" : {
+            "email_01" : "电邮地址",
+            "email_02" : "请填写您的电邮地址",
+            "password_01" : "密码",
+            "password_02" : "请填写密码(不少于8位)",
+            "submit" : "提交",
+            "title" : "登入",
+            "notRegister" : "还没有登记 ?",
+            "reg" : "登记"
+          }
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1204-simp",
+      "parent": "accounting",
+      "_name": "会员登记",
+      "_content": "会员登记",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "登记"
+        },
+        {
+          "key": "002",
+          "section": "lin"
+        },
+        {
+          "key": "003",
+          "section": "src",
+          "src": "https://www.kenneth-system.net/img001/Pic_2101.jpg",
+          "width": "800",
+          "height": "430",
+          "alt": "Lin Fung Accounting"
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        },
+        {
+          "key": "005",
+          "section": "L3a",
+          "columns" : {
+            "name_01" : "姓名 （必须）",
+            "name_02" : "请填写姓名",
+            "email_01" : "电邮地址",
+            "email_02" : "请填写您的电邮地址",
+            "password_01" : "密码",
+            "password_02" : "请填写密码(不少于8位)",
+            "password_11" : "密码(核对)",
+            "password_12" : "请再一次填写密码(不少于8位)",
+            "password_check" : "密码核对失败",
+            "submit" : "提交",
+            "title" : "登记"
+          }
+        },
+        {
+          "key": "006",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1205-chin",
+      "parent": "members",
+      "_name": "下載 GIGA Accounting 單用戶版",
+      "_content": "下載 GIGA Accounting 單用戶版",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "下載 GIGA Accounting 單用戶版"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "安裝 GIGA Accounting （單用戶版）",
+          "items": [
+            "已安裝 GIGA Accounting （試用版），無需安裝，只需輸入 ‘單用戶版’ 啟動編碼便可即時轉換成 GIGA Accounting （單用戶版）",
+            "單用戶版相等到一部主機使用權，可隨時與其他分機組成一個多用戶網絡。",
+            "單用戶版需要進行啟動程序始可開始使用，單用戶版的啟動金匙會寄到以下填寫的電郵地址"
+          ]
+        },
+        {
+          "key": "003",
+          "section": "k3a",
+          "content": "",
+          "button" : "發送",
+          "items": [
+            "姓名",
+            "電郵地址",
+            "發送電郵"
+          ]
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1205-engl",
+      "parent": "members",
+      "_name": "GIGA Accounting Single User version",
+      "_content": "GIGA Accounting Single User version",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "GIGA Accounting Single User version"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "GIGA Accounting Single User version",
+          "items": [
+            "With the trial version installed, no further installation needed, just enter the GIGA Accounting (Single User Version) 'Activation Code' in the 'Trial Version' to convert into a Single User version.",
+            "The Single user version is itself a server, it can be converted into a multi-users network by joining it with other workstations.",
+            "The Single user version would need to be activated using an activation key. The activation key will be sent to email address entered here."
+          ]
+        },
+        {
+          "key": "003",
+          "section": "k3a",
+          "content": "",
+          "button" : "SEND",
+          "items": [
+            "Name",
+            "Email Address",
+            "Send Email"
+          ]
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1205-simp",
+      "parent": "members",
+      "_name": "下载 GIGA Accounting 单用户版",
+      "_content": "下载 GIGA Accounting 单用户版",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h1a",
+          "content": "下载 GIGA Accounting 单用户版"
+        },
+        {
+          "key": "002",
+          "section": "t3a",
+          "content": "安装 GIGA ACCOUNTING 单用户版",
+          "items": [
+            "如已安装 GIGA Accounting （试用版），无需再安装，只需输入 ‘单用户版’ 启动编码便可即时转换成 GIGA Accounting （单用户版）",
+            "单用户版相等到一部主机使用权，可随时与其他分机组成一个多用户网络。",
+            "单用户版需要进行启动程序始可开始使用，单用户版的启动金匙会寄到以下填写的电邮地址"
+          ]
+        },
+        {
+          "key": "003",
+          "section": "k3a",
+          "content": "",
+          "button" : "发送",
+          "items": [
+            "姓名",
+            "电邮地址",
+            "发送电邮"
+          ]
+        },
+        {
+          "key": "004",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1206-chin",
+      "parent": "accounting",
+      "_name": "GIGA ACCOUNTING 遙距安裝 - 付款",
+      "_content": "GIGA ACCOUNTING 遙距安裝 - 付款",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h6a",
+          "content": "GIGA ACCOUNTING 遙距安裝 - HK$ 10"
+        },
+        {
+          "key": "002",
+          "section": "l21"
+        },
+        {
+          "key": "003",
+          "section": "l21"
+        },
+        {
+          "key": "004",
+          "section": "p01",
+          "amount" : "HK$ 10"
+        },
+        {
+          "key": "005",
+          "section": "l21"
+        },
+        {
+          "key": "006",
+          "section": "h1a",
+          "content": "GIGA ACCOUNTING 遙距安裝 - HK$ 200"
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "p02",
+          "amount" : "HK$ 200"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1207-chin",
+      "parent": "accounting",
+      "_name": "GIGA ACCOUNTING 網上支援 (年費) - 付款",
+      "_content": "GIGA ACCOUNTING 網上支援 (年費) - 付款",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h6a",
+          "content": "GIGA ACCOUNTING 網上支援 (年費) - HK$ 10"
+        },
+        {
+          "key": "002",
+          "section": "l21"
+        },
+        {
+          "key": "003",
+          "section": "l21"
+        },
+        {
+          "key": "004",
+          "section": "p01",
+          "amount" : "HK$ 10"
+        },
+        {
+          "key": "005",
+          "section": "l21"
+        },
+        {
+          "key": "006",
+          "section": "h1a",
+          "content": "GIGA ACCOUNTING 網上支援 (年費) - HK$ 600"
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "p03",
+          "amount" : "HK$ 600"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1206-engl",
+      "parent": "accounting",
+      "_name": "GIGA ACCOUNTING remote installation services - Payment",
+      "_content": "GIGA ACCOUNTING remote installation services - Payment",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h6a",
+          "content": "GIGA ACCOUNTING remote installation services - HK$ 10"
+        },
+        {
+          "key": "002",
+          "section": "l21"
+        },
+        {
+          "key": "003",
+          "section": "l21"
+        },
+        {
+          "key": "004",
+          "section": "p01",
+          "amount" : "HK$ 10"
+        },
+        {
+          "key": "005",
+          "section": "l21"
+        },
+        {
+          "key": "006",
+          "section": "h1a",
+          "content": "GIGA ACCOUNTING remote installation services - HK$ 200"
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "p02",
+          "amount" : "HK$ 200"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1207-engl",
+      "parent": "accounting",
+      "_name": "GIGA ACCOUNTING support services (per annum) - Payment",
+      "_content": "GIGA ACCOUNTING support services (per annum) - Payment",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h6a",
+          "content": "GIGA ACCOUNTING support services (per annum) - HK$ 10"
+        },
+        {
+          "key": "002",
+          "section": "l21"
+        },
+        {
+          "key": "003",
+          "section": "l21"
+        },
+        {
+          "key": "004",
+          "section": "p01",
+          "amount" : "HK$ 10"
+        },
+        {
+          "key": "005",
+          "section": "l21"
+        },
+        {
+          "key": "006",
+          "section": "h1a",
+          "content": "GIGA ACCOUNTING support services (per annum) - HK$ 600"
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "p03",
+          "amount" : "HK$ 600"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1206-simp",
+      "parent": "accounting",
+      "_name": "GIGA ACCOUNTING 遥距安装 - 付款",
+      "_content": "GIGA ACCOUNTING 遥距安装 - 付款",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h6a",
+          "content": "GIGA ACCOUNTING 遥距安装 - HK$ 10"
+        },
+        {
+          "key": "002",
+          "section": "l21"
+        },
+        {
+          "key": "003",
+          "section": "l21"
+        },
+        {
+          "key": "004",
+          "section": "p01",
+          "amount" : "HK$ 10"
+        },
+        {
+          "key": "005",
+          "section": "l21"
+        },
+        {
+          "key": "006",
+          "section": "h1a",
+          "content": "GIGA ACCOUNTING 遥距安装 - HK$ 200"
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "p02",
+          "amount" : "HK$ 200"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1207-simp",
+      "parent": "accounting",
+      "_name": "GIGA ACCOUNTING 网上支援 (年费) - 付款",
+      "_content": "GIGA ACCOUNTING 网上支援 (年费) - 付款",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "h6a",
+          "content": "GIGA ACCOUNTING 网上支援 (年费) - HK$ 10"
+        },
+        {
+          "key": "002",
+          "section": "l21"
+        },
+        {
+          "key": "003",
+          "section": "l21"
+        },
+        {
+          "key": "004",
+          "section": "p01",
+          "amount" : "HK$ 10"
+        },
+        {
+          "key": "005",
+          "section": "l21"
+        },
+        {
+          "key": "006",
+          "section": "h1a",
+          "content": "GIGA ACCOUNTING 网上支援 (年费) - HK$ 600"
+        },
+        {
+          "key": "007",
+          "section": "lin"
+        },
+        {
+          "key": "008",
+          "section": "lin"
+        },
+        {
+          "key": "009",
+          "section": "p03",
+          "amount" : "HK$ 600"
+        },
+        {
+          "key": "010",
+          "section": "lin"
+        }
+      ]
+    },
+    {
+      "id": "1301-chin",
+      "parent": "admin",
+      "_name": "GIGA ACCOUNTING 查詢",
+      "_content": "GIGA ACCOUNTING 查詢",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "d1a"
+        }
+      ]
+    },
+    {
+      "id": "1302-chin",
+      "parent": "admin",
+      "_name": "GIGA ACCOUNTING 會員",
+      "_content": "GIGA ACCOUNTING 會員",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "d2a"
+        }
+      ]
+    },
+    {
+      "id": "1301-engl",
+      "parent": "admin",
+      "_name": "GIGA ACCOUNTING 查詢",
+      "_content": "GIGA ACCOUNTING 查詢",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "d1a"
+        }
+      ]
+    },
+    {
+      "id": "1302-engl",
+      "parent": "admin",
+      "_name": "GIGA ACCOUNTING 會員",
+      "_content": "GIGA ACCOUNTING 會員",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "d2a"
+        }
+      ]
+    },
+    {
+      "id": "1301-simp",
+      "parent": "admin",
+      "_name": "GIGA ACCOUNTING 查詢",
+      "_content": "GIGA ACCOUNTING 查詢",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "d1a"
+        }
+      ]
+    },
+    {
+      "id": "1302-simp",
+      "parent": "admin",
+      "_name": "GIGA ACCOUNTING 會員",
+      "_content": "GIGA ACCOUNTING 會員",
+      "paragraph": [
+        {
+          "key": "001",
+          "section": "d2a"
+        }
+      ]
+    }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+  ]
+}

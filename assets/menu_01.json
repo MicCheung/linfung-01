@@ -1,0 +1,754 @@
+{
+  "languages": [
+    {
+      "lang": "chin",
+      "tail": "01",
+      "title": "繁體中文",
+      "description": "/",
+      "enabled": true,
+      "image": "TbSquareLetterH"
+    },
+    {
+      "lang": "engl",
+      "tail": "02",
+      "title": "English",
+      "description": "/",
+      "enabled": true,
+      "image": "RiEnglishInput"
+    },
+    {
+      "lang": "simp",
+      "tail": "03",
+      "title": "简体中文",
+      "description": "/",
+      "enabled": true,
+      "image": "TbSquareLetterC"
+    }
+  ],
+  "downloads": [
+    {
+      "words" : "Windows 10--64 bits<>繁體中文",
+      "short" : "Windows 10--64 bits<>",
+      "form" : "2100",
+      "src" : [["14862916-8a55","ISO 檔案"]]
+    },
+    {
+      "words" : "Windows 10--64 bits<>简体中文",
+      "short" : "Windows 10--64 bits<>",
+      "form" : "2300",
+      "src" : [["542b1f95-752b","ISO 档案"]]
+    },
+    {
+      "words" : "Windows 10--64 bits<>undefined",
+      "short" : "Windows 10--64 bits<>",
+      "form" : "2200",
+      "src" : [["40262469-7ae9","ISO File"]]
+    },
+    {
+      "words" : "Windows 10--32 bits<>繁體中文",
+      "short" : "Windows 10--32 bits<>",
+      "form" : "2100",
+      "src" : [["3d84e413-53b8","ISO 檔案"]]
+    },
+    {
+      "words" : "Windows 10--32 bits<>简体中文",
+      "short" : "Windows 10--32 bits<>",
+      "form" : "2300",
+      "src" : [["a1a161a4-891b","ISO 档案"]]
+    },
+    {
+      "words" : "Windows 10--32 bits<>undefined",
+      "short" : "Windows 10--32 bits<>",
+      "form" : "2200",
+      "src" : [["26f38778-cdae","ISO File"]]
+    },
+    {
+      "words" : "Windows 7--64 bits<>繁體中文",
+      "short" : "Windows 7--64 bits<>",
+      "form" : "2100",
+      "src" : [["1ea9c3f9-d183","ISO 檔案"],["868bb961-7c82","USB 手指"]]
+    },
+    {
+      "words" : "Windows 7--64 bits<>简体中文",
+      "short" : "Windows 7--64 bits<>",
+      "form" : "2300",
+      "src" : [["6ace06e7-bbfb","ISO 档案"],["e4bbed56-71e2","USB 手指"]]
+    },
+    {
+      "words" : "Windows 7--64 bits<>undefined",
+      "short" : "Windows 7--64 bits<>",
+      "form" : "2200",
+      "src" : [["383e4db3-bc3d","ISO File"],["783e33bb-ee50","USB Disk"]]
+    },
+    {
+      "words" : "Windows 7--32 bits<>繁體中文",
+      "short" : "Windows 7--32 bits<>",
+      "form" : "2100",
+      "src" : [["08c49ec1-c4a1","ISO 檔案"],["d3ea576a-c5bd","USB 手指"]]
+    },
+    {
+      "words" : "Windows 7--32 bits<>简体中文",
+      "short" : "Windows 7--32 bits<>",
+      "form" : "2300",
+      "src" : [["8c159d4e-3181","ISO 档案"],["15086661-b422","USB 手指"]]
+    },
+    {
+      "words" : "Windows 7--32 bits<>undefined",
+      "short" : "Windows 7--32 bits<>",
+      "form" : "2200",
+      "src" : [["76071a7d-74c7","ISO File"],["a3a3081f-5546","USB Disk"]]
+    }
+  ],
+  "musers": [
+    {
+      "words" : "Windows 10--64 bits<>繁體中文",
+      "short" : "Windows 10--64 bits<>",
+      "form" : "6100",
+      "src" : [["f4330437-6289","ISO 檔案"],["4f267ec8-458e","USB 手指"]]
+    },
+    {
+      "words" : "Windows 10--64 bits<>简体中文",
+      "short" : "Windows 10--64 bits<>",
+      "form" : "6300",
+      "src" : [["0d4f0706-8168","ISO 档案"],["9c6a05c7-0ed6","USB 手指"]]
+    },
+    {
+      "words" : "Windows 10--64 bits<>undefined",
+      "short" : "Windows 10--64 bits<>",
+      "form" : "6200",
+      "src" : [["02d5ec08-7f24","ISO File"],["bc949d7c-e876","USB Disk"]]
+    },
+    {
+      "words" : "Windows 10--32 bits<>繁體中文",
+      "short" : "Windows 10--32 bits<>",
+      "form" : "6100",
+      "src" : [["f4330437-6289","ISO 檔案"],["4f267ec8-458e","USB 手指"]]
+    },
+    {
+      "words" : "Windows 10--32 bits<>简体中文",
+      "short" : "Windows 10--32 bits<>",
+      "form" : "6300",
+      "src" : [["0d4f0706-8168","ISO 档案"],["9c6a05c7-0ed6","USB 手指"]]
+    },
+    {
+      "words" : "Windows 10--32 bits<>undefined",
+      "short" : "Windows 10--32 bits<>",
+      "form" : "6200",
+      "src" : [["02d5ec08-7f24","ISO File"],["bc949d7c-e876","USB Disk"]]
+    },
+    {
+      "words" : "Windows 7--64 bits<>繁體中文",
+      "short" : "Windows 7--64 bits<>",
+      "form" : "6100",
+      "src" : [["f4330437-6289","ISO 檔案"],["4f267ec8-458e","USB 手指"]]
+    },
+    {
+      "words" : "Windows 7--64 bits<>简体中文",
+      "short" : "Windows 7--64 bits<>",
+      "form" : "6300",
+      "src" : [["0d4f0706-8168","ISO 档案"],["9c6a05c7-0ed6","USB 手指"]]
+    },
+    {
+      "words" : "Windows 7--64 bits<>undefined",
+      "short" : "Windows 7--64 bits<>",
+      "form" : "6200",
+      "src" : [["02d5ec08-7f24","ISO File"],["bc949d7c-e876","USB Disk"]]
+    },
+    {
+      "words" : "Windows 7--32 bits<>繁體中文",
+      "short" : "Windows 7--32 bits<>",
+      "form" : "6100",
+      "src" : [["f4330437-6289","ISO 檔案"],["4f267ec8-458e","USB 手指"]]
+    },
+    {
+      "words" : "Windows 7--32 bits<>简体中文",
+      "short" : "Windows 7--32 bits<>",
+      "form" : "6300",
+      "src" : [["0d4f0706-8168","ISO 档案"],["9c6a05c7-0ed6","USB 手指"]]
+    },
+    {
+      "words" : "Windows 7--32 bits<>undefined",
+      "short" : "Windows 7--32 bits<>",
+      "form" : "6200",
+      "src" : [["02d5ec08-7f24","ISO File"],["bc949d7c-e876","USB Disk"]]
+    }
+  ],
+  "programs": [
+    {
+      "id": "1000-chin",
+      "lang": "chin",
+      "cat": "00",
+      "parent": "accounting",
+      "title": "會計軟件 - 特價推廣",
+      "description": "accounting-software-promotion",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1001-chin",
+      "lang": "chin",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "會計軟件 - 特價推廣",
+      "description": "accounting-software-promotion",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1002-chin",
+      "lang": "chin",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "GIGA Accounting 下載中心",
+      "description": "accounting-software-free-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1003-chin",
+      "lang": "chin",
+      "cat": "01",
+      "parent": "videos",
+      "title": "示範視頻",
+      "description": "accounting-software-demonstration-videos",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1004-chin",
+      "lang": "chin",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "免費會計軟件",
+      "description": "free-accounting-software",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1005-chin",
+      "lang": "chin",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "遙控軟件 (安裝 GIGA Accounting)",
+      "description": "pc-remote-accounting-software-installation",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1006-chin",
+      "lang": "chin",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "服務推介",
+      "description": "accounting-services",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1007-chin",
+      "lang": "chin",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "技術支援 / 查詢",
+      "description": "accounting-software-technical-support",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1008-chin",
+      "lang": "chin",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "聯絡我們",
+      "description": "contact-information",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1001-engl",
+      "lang": "engl",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "Accounting Software - Promotion",
+      "description": "accounting-software-promotion",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1002-engl",
+      "lang": "engl",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "GIGA Accounting Download",
+      "description": "accounting-software-free-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1003-engl",
+      "lang": "engl",
+      "cat": "01",
+      "parent": "videos",
+      "title": "Demo Video",
+      "description": "accounting-software-demonstration-videos",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1004-engl",
+      "lang": "engl",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "Free Accounting Software",
+      "description": "free-accounting-software",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1005-engl",
+      "lang": "engl",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "Remote Access Software (Installation)",
+      "description": "pc-remote-accounting-software-installation",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1006-engl",
+      "lang": "engl",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "Accounting Services",
+      "description": "accounting-services",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1007-engl",
+      "lang": "engl",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "Technical Support",
+      "description": "accounting-software-technical-support",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1008-engl",
+      "lang": "engl",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "Contact US",
+      "description": "contact-information",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1001-simp",
+      "lang": "simp",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "会计软件 - 特价推广",
+      "description": "accounting-software-promotion",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1002-simp",
+      "lang": "simp",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "GIGA Accounting 下载中心",
+      "description": "accounting-software-free-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1003-simp",
+      "lang": "simp",
+      "cat": "01",
+      "parent": "videos",
+      "title": "示范视频",
+      "description": "accounting-software-demonstration-videos",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1004-simp",
+      "lang": "simp",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "免费会计软件",
+      "description": "free-accounting-software",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1005-simp",
+      "lang": "simp",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "遥控软件 (安装 GIGA Accounting)",
+      "description": "pc-remote-accounting-software-installation",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1006-simp",
+      "lang": "simp",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "服务推介",
+      "description": "accounting-services",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1007-simp",
+      "lang": "simp",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "技术支持 / 查询",
+      "description": "accounting-software-technical-support",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1008-simp",
+      "lang": "simp",
+      "cat": "01",
+      "parent": "accounting",
+      "title": "联络我们",
+      "description": "contact-information",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1101-chin",
+      "lang": "chin",
+      "cat": "02",
+      "parent": "accounting",
+      "title": "登入",
+      "description": "login",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1101-engl",
+      "lang": "engl",
+      "cat": "02",
+      "parent": "accounting",
+      "title": "LOGIN",
+      "description": "login",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1101-simp",
+      "lang": "simp",
+      "cat": "02",
+      "parent": "accounting",
+      "title": "登入",
+      "description": "login",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1102-chin",
+      "lang": "chin",
+      "cat": "03",
+      "parent": "accounting",
+      "title": "語言",
+      "description": "languages-option",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1102-engl",
+      "lang": "engl",
+      "cat": "03",
+      "parent": "accounting",
+      "title": "LANGS",
+      "description": "languages-option",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1102-simp",
+      "lang": "simp",
+      "cat": "03",
+      "parent": "accounting",
+      "title": "语言",
+      "description": "languages-option",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1103-chin",
+      "lang": "chin",
+      "cat": "04",
+      "parent": "accounting",
+      "title": "登出",
+      "description": "login",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1103-engl",
+      "lang": "engl",
+      "cat": "04",
+      "parent": "accounting",
+      "title": "LOGOUT",
+      "description": "logout",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1103-simp",
+      "lang": "simp",
+      "cat": "04",
+      "parent": "accounting",
+      "title": "登出",
+      "description": "logout",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1104-chin",
+      "lang": "chin",
+      "cat": "05",
+      "parent": "accounting",
+      "title": "您好",
+      "description": "hello",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1104-engl",
+      "lang": "engl",
+      "cat": "05",
+      "parent": "accounting",
+      "title": "Hello",
+      "description": "hello",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1104-simp",
+      "lang": "simp",
+      "cat": "05",
+      "parent": "accounting",
+      "title": "您好",
+      "description": "hello",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1201-chin",
+      "lang": "chin",
+      "cat": "11",
+      "parent": "members",
+      "title": "下載 GIGA Accounting 試用版",
+      "description": "accounting-software-trial-version-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1202-chin",
+      "lang": "chin",
+      "cat": "11",
+      "parent": "members",
+      "title": "下載 GIGA Accounting 多用戶版",
+      "description": "accounting-software-multi-users-version-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1201-engl",
+      "lang": "engl",
+      "cat": "11",
+      "parent": "members",
+      "title": "Download GIGA Accounting Trial Version",
+      "description": "accounting-software-trial-version-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1202-engl",
+      "lang": "engl",
+      "cat": "11",
+      "parent": "members",
+      "title": "Download GIGA Accounting Multi-Users Version",
+      "description": "accounting-software-multi-users-version-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1201-simp",
+      "lang": "simp",
+      "cat": "11",
+      "parent": "members",
+      "title": "下载 GIGA Accounting 试用版",
+      "description": "accounting-software-trial-version-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1202-simp",
+      "lang": "simp",
+      "cat": "11",
+      "parent": "members",
+      "title": "下载 GIGA Accounting 多用户版",
+      "description": "accounting-software-multi-users-version-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1203-chin",
+      "lang": "chin",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "用戶登入",
+      "description": "users-login",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1204-chin",
+      "lang": "chin",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "用戶登記",
+      "description": "users-register",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1203-engl",
+      "lang": "engl",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "LOGIN",
+      "description": "users-login",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1204-engl",
+      "lang": "engl",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "REGISTER",
+      "description": "users-register",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1203-simp",
+      "lang": "simp",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "用户登入",
+      "description": "users-login",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1204-simp",
+      "lang": "simp",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "用户登记",
+      "description": "users-register",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1205-chin",
+      "lang": "chin",
+      "cat": "11",
+      "parent": "members",
+      "title": "下載 GIGA Accounting 單用戶版",
+      "description": "accounting-software-single-user-version-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1205-engl",
+      "lang": "engl",
+      "cat": "11",
+      "parent": "members",
+      "title": "Download GIGA Accounting Single-User Version",
+      "description": "accounting-software-single-user-version-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1205-simp",
+      "lang": "simp",
+      "cat": "11",
+      "parent": "members",
+      "title": "下载 GIGA Accounting 单用户版",
+      "description": "accounting-software-single-user-version-download",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1206-chin",
+      "lang": "chin",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "GIGA ACCOUNTING 遙距安裝 - 付款",
+      "description": "accounting-software-remote-installation-payment",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1207-chin",
+      "lang": "chin",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "GIGA ACCOUNTING 網上支援 (年費) - 付款",
+      "description": "accounting-software-support-services-payment",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1206-engl",
+      "lang": "engl",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "GIGA ACCOUNTING remote installation services - Payment",
+      "description": "accounting-software-remote-installation-payment",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1207-engl",
+      "lang": "engl",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "GIGA ACCOUNTING support services (per annum) - Payment",
+      "description": "accounting-software-support-services-payment",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1206-simp",
+      "lang": "simp",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "GIGA ACCOUNTING 遥距安装 - 付款",
+      "description": "accounting-software-remote-installation-payment",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1207-simp",
+      "lang": "simp",
+      "cat": "11",
+      "parent": "accounting",
+      "title": "GIGA ACCOUNTING 网上支援 (年费) - 付款",
+      "description": "accounting-software-support-services-payment",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1301-chin",
+      "lang": "chin",
+      "cat": "11",
+      "parent": "admin",
+      "title": "GIGA ACCOUNTING 查詢",
+      "description": "accounting-software-enquiries-listing",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1302-chin",
+      "lang": "chin",
+      "cat": "11",
+      "parent": "admin",
+      "title": "GIGA ACCOUNTING 會員",
+      "description": "accounting-software-users-details",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1301-engl",
+      "lang": "engl",
+      "cat": "11",
+      "parent": "admin",
+      "title": "GIGA ACCOUNTING 查詢",
+      "description": "accounting-software-enquiries-listing",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1302-engl",
+      "lang": "engl",
+      "cat": "11",
+      "parent": "admin",
+      "title": "GIGA ACCOUNTING 會員",
+      "description": "accounting-software-users-details",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1301-simp",
+      "lang": "simp",
+      "cat": "11",
+      "parent": "admin",
+      "title": "GIGA ACCOUNTING 查詢",
+      "description": "accounting-software-enquiries-listing",
+      "image": "MdAccountBalance"
+    },
+    {
+      "id": "1302-simp",
+      "lang": "simp",
+      "cat": "11",
+      "parent": "admin",
+      "title": "GIGA ACCOUNTING 會員",
+      "description": "accounting-software-users-details",
+      "image": "MdAccountBalance"
+    }
+  ]
+}
